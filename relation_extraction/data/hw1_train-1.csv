@@ -1,0 +1,2313 @@
+ID,textstr ,label
+0,who plays luke on star wars new hope,movie.starring.actor movie.starring.character
+1,show credits for the godfather,movie.starring.actor
+2,who was the main actor in the exorcist,movie.starring.actor
+3,find the female actress from the movie she the man,movie.starring.actor actor.gender
+4,who played dory on finding nemo,movie.starring.actor movie.starring.character
+5,who was the female lead in resident evil,movie.starring.actor actor.gender
+6,who played guido in life is beautiful,movie.starring.actor movie.starring.character
+7,who was the co-star in shoot to kill,movie.starring.actor
+8,find the guy who plays charlie on charlie angels,movie.starring.actor movie.starring.character
+9,cast and crew of movie the campaign,movie.starring.actor
+10,cast and crew of the campaign,movie.starring.actor
+11,who plays in the movie the campaign,movie.starring.actor
+12,who starred in the campaign,movie.starring.actor
+13,who were the crew for the campaign,movie.starring.actor
+14,who was the lead man in taxi driver,movie.starring.actor
+15,star of twilight,movie.starring.actor
+16,who stars in vulgaria,movie.starring.actor
+17,what are the names of female actors who played in lost,movie.starring.actor actor.gender
+18,can i see the set list and cast for life is beautiful,movie.starring.actor
+19,cast and crew of life is beautiful,movie.starring.actor
+20,show cast and crew for the movie life is beautiful,movie.starring.actor
+21,what the cast for life is beautiful,movie.starring.actor
+22,who played in life is beautiful,movie.starring.actor
+23,who played in life is beautiful,movie.starring.actor
+24,who was in life is beautiful,movie.starring.actor
+25,who were roberto benigni costars on life is beautiful,movie.starring.actor
+26,i am looking for the actor that played in pretty women,movie.starring.actor
+27,star of troy,movie.starring.actor
+28,who played robin in batman forever,movie.starring.actor movie.starring.character
+29,find the male actor from dirty harry,movie.starring.actor actor.gender
+30,show me the actor of the ,movie.starring.actor
+31,rocky actor,movie.starring.actor
+32,what actor played in the amazing spider man,movie.starring.actor
+33,who are the actors in captain america,movie.starring.actor
+34,who starred in captain america,movie.starring.actor
+35,who was in the movie captain america,movie.starring.actor
+36,who were the cast members in the hobbist,movie.starring.actor
+37,show me the actor of the movie,movie.starring.actor
+38,which female actors starred in hitch,movie.starring.actor actor.gender
+39,can i see the cast and crew for the movie in july,movie.starring.actor
+40,list cast and crew in july,movie.starring.actor
+41,who stars in in july,movie.starring.actor
+42,who stars in in july,movie.starring.actor
+43,roll credits for top gun,movie.starring.actor
+44,show me the actor of the movie ,movie.starring.actor
+45,rocky 2 actor,movie.starring.actor
+46,who is,movie.starring.actor movie.starring.character
+47,who stared in i love lucy,movie.starring.actor
+48,apollo thirteen cast members,movie.starring.actor
+49,can you tell me more about the cast and crew of the movie apollo thirteen,movie.starring.actor
+50,cast and crew for apollo thirteen,movie.starring.actor
+51,castmembers of apollo thirteen,movie.starring.actor
+52,complete cast and crew of apollo thirteen,movie.starring.actor
+53,find for information about the cast of appolo thirteen,movie.starring.actor
+54,find info on the crew of apollo thirteen,movie.starring.actor
+55,give me more facts about the cast and crew of the movie apollo thirteen,movie.starring.actor
+56,i need to know in detail about the cast and crew of the movie apollo thirteen,movie.starring.actor
+57,i want to find information about the cast of apollo thirteen,movie.starring.actor
+58,show me more information about the cast and crew of the movie apollo thirteen,movie.starring.actor
+59,what actors were in dirty dancing,movie.starring.actor
+60,show me the actors in captain america,movie.starring.actor
+61,show me gilda credits,movie.starring.actor
+62,i can't remember the lead guy in the avengers,movie.starring.actor
+63,show cast list for the avergers,movie.starring.actor
+64,who plays nemo in finding nemo,movie.starring.actor movie.starring.character
+65,find cast and crew for the movie finding nemo,movie.starring.actor
+66,show me the cast and crew for finding nemo,movie.starring.actor
+67,show me the cast of finding nemo,movie.starring.actor
+68,who are the main voices in finding nemo,movie.starring.actor
+69,who starred in finding nemo,movie.starring.actor
+70,who stars in finding nemo,movie.starring.actor
+71,who was the main character in men in black 3,movie.starring.actor
+72,can i see the credits for dirty dancing,movie.starring.actor
+73,cast of dirty dancing,movie.starring.actor
+74,find cast and crew for dirty dancing,movie.starring.actor
+75,search cast and crew for dirty dancing,movie.starring.actor
+76,search for the cast and crew for the movie dirty dancing,movie.starring.actor
+77,show me the cast and list for dirty dancing,movie.starring.actor
+78,who starred in dirty dancing,movie.starring.actor
+79,who starred in dirty dancing,movie.starring.actor
+80,who were the stars of dirty dancing,movie.starring.actor
+81,who was the male star of titanic,movie.starring.actor actor.gender
+82,who starred in taxi,movie.starring.actor
+83,who played in the oranges,movie.starring.actor
+84,actors for life is beautiful,movie.starring.actor
+85,who are the lead actors in life is beautiful,movie.starring.actor
+86,find the male actor from the movie born free,movie.starring.actor actor.gender
+87,actor from iron man,movie.starring.actor
+88,shows actors in shoot to kill,movie.starring.actor
+89,which actors starred in hitch,movie.starring.actor
+90,who are all of the actors in hitch,movie.starring.actor
+91,who was the lead actor in hitch,movie.starring.actor
+92,who starred in dark knight rising,movie.starring.actor
+93,who played nick fury in the avengers,movie.starring.actor movie.starring.character
+94,who was the lead actor in the avengers,movie.starring.actor
+95,what was the cast of black swan,movie.starring.actor
+96,who acted in black swan,movie.starring.actor
+97,who was in black swan,movie.starring.actor
+98,who was the lead in black swan,movie.starring.actor
+99,actors in star wars four,movie.starring.actor
+100,what was the actor who played in twilight,movie.starring.actor movie.starring.character
+101,who played in twilight,movie.starring.actor movie.starring.character
+102,who starred in the parent trap,movie.starring.actor
+103,cast and crew for hitch,movie.starring.actor
+104,cast and crew of hitch,movie.starring.actor
+105,cast hitch,movie.starring.actor
+106,hitch crew,movie.starring.actor
+107,list cast hitch,movie.starring.actor
+108,show me hitch cast,movie.starring.actor
+109,show the cast of hitch,movie.starring.actor
+110,what actors appeared in the movie hitch,movie.starring.actor
+111,what actors played in the movies hitch,movie.starring.actor
+112,what was the cast of hitch,movie.starring.actor
+113,who starred in hitch,movie.starring.actor
+114,who starred in the movie hitch,movie.starring.actor
+115,who stars in hitch,movie.starring.actor
+116,who was in hitch,movie.starring.actor
+117,who was in the movie hitch,movie.starring.actor
+118,who was the star in hitch,movie.starring.actor
+119,voice actor for homer simpson,movie.starring.actor movie.starring.character
+120,who is in the movie two can play that game,movie.starring.actor
+121,actress from gone with the wind,movie.starring.actor
+122,who are the lead actors in this movie,movie.starring.actor
+123,show me information on the cast and crew of pitchperfect,movie.starring.actor
+124,actors in house at the end of the street,movie.starring.actor
+125,can i see the cast and crew for house at the end of the street,movie.starring.actor
+126,cast and crew for house at the end of the street,movie.starring.actor
+127,cast and crew for the movie house at the end of the street,movie.starring.actor
+128,who stars on the house at the end of the street,movie.starring.actor
+129,who is in movie,movie.starring.actor
+130,who is in movie,movie.starring.actor
+131,who is in movie,movie.starring.actor
+132,who acts in forager,movie.starring.actor
+133,who stars in forager,movie.starring.actor
+134,who is the cast and crew for now forager,movie.starring.actor
+135,who was in now,movie.starring.actor
+136,actor from modern family,movie.starring.actor
+137,list the actors in forager,movie.starring.actor
+138,cast and crew of go,movie.starring.actor
+139,who starred in go,movie.starring.actor
+140,who was the lead actress in the hunger games,movie.starring.actor
+141,show cast of movie request,movie.starring.actor
+142,what is the cast in resident evil retribution,movie.starring.actor
+143,list me the actors for top gun,movie.starring.actor
+144,who was the tin man in wizard of oz,movie.starring.actor movie.starring.character
+145,actress in hum tum,movie.starring.actor
+146,who was the actor in movie hum tum,movie.starring.actor
+147,who is in barfi,movie.starring.actor
+148,who was the lead woman in the savages,movie.starring.actor actor.gender
+149,find the name of the actor who played jack in the movie titanic,movie.starring.actor movie.starring.character
+150,the name of the male lead in the movie titanic,movie.starring.actor
+151,what is the name of the lead actor in the titanic,movie.starring.actor
+152,show me who played what role in go,movie.starring.actor movie.starring.character
+153,i cannot remember the name of the actor in pretty women,movie.starring.actor
+154,what is the name of the actor who was in the parent trap,movie.starring.actor
+155,find name of main actor in the movie the help,movie.starring.actor
+156,looking for names of crew members of apollo thirteen,movie.starring.actor
+157,i can't figure out the name of the lead guy in the avengers,movie.starring.actor
+158,what were the names of the ladies in facts of life,movie.starring.actor actor.gender
+159,how old is steven spielberg,person.date_of_birth
+160,when steven spielberg born,person.date_of_birth
+161,what is tom cruise birthday,person.date_of_birth
+162,when was tom cruise born,person.date_of_birth
+163,when is will ferrell birthday,person.date_of_birth
+164,how old is kristen stewart,person.date_of_birth
+165,how much did it cost to produce the dark night,movie.estimated_budget
+166,how much did the dark night cost to produce,movie.estimated_budget
+167,what was the dark night budget,movie.estimated_budget
+168,the godfather budget,movie.estimated_budget
+169,budget for the blind side,movie.estimated_budget
+170,i want to look up the budget of freedom writers,movie.estimated_budget
+171,i would like to look up the budget of freedom writers,movie.estimated_budget
+172,look for the budget of freedom writers,movie.estimated_budget
+173,how much was hunger games made for,movie.estimated_budget
+174,how much was the budget for the hunger games,movie.estimated_budget
+175,how much did black swan cost,movie.estimated_budget
+176,how much did hollywood pay for black swan,movie.estimated_budget
+177,what was the budget for black swan,movie.estimated_budget
+178,what were production costs for black swan,movie.estimated_budget
+179,what was the budget for wrong turn,movie.estimated_budget
+180,search for the budget of step up,movie.estimated_budget
+181,budget for titanic,movie.estimated_budget
+182,budget for titanic,movie.estimated_budget
+183,budget for titanic movie,movie.estimated_budget
+184,how much did titanic cost to make,movie.estimated_budget
+185,how much was the total budget for the titanic,movie.estimated_budget
+186,what was titanic budget,movie.estimated_budget
+187,what was the budget for courageous,movie.estimated_budget
+188,what was the budget for facing the giants,movie.estimated_budget
+189,budget of heroine,movie.estimated_budget
+190,finding the buget of heroine,movie.estimated_budget
+191,looking of movie heroine budget,movie.estimated_budget
+192,what is the buget of movie heroine,movie.estimated_budget
+193,how much did it cost to make jurassic park,movie.estimated_budget
+194,what was the budget for jurassic park,movie.estimated_budget
+195,how much did james cameron have to spend to make avatar,movie.estimated_budget movie.directed_by
+196,avatar must have cost a bundle,movie.estimated_budget
+197,did the avatar movie have a budget for spending,movie.estimated_budget
+198,get me info on the budget for avatar,movie.estimated_budget
+199,how much did it cost to make avatar,movie.estimated_budget
+200,how much did the studio spend to make avatar,movie.estimated_budget
+201,how much money was budgeted for the avatar movie,movie.estimated_budget
+202,i need to know the budget of the movie avatar,movie.estimated_budget
+203,i want to know the avatar budget,movie.estimated_budget
+204,list the budget for avatar,movie.estimated_budget
+205,show me what was the budget of the movie avatar,movie.estimated_budget
+206,what did the movie avatar cost to make,movie.estimated_budget
+207,what was avatar budget,movie.estimated_budget
+208,what was the budget for avatar,movie.estimated_budget
+209,what was the budget for avatar,movie.estimated_budget
+210,what was the budget for avatar,movie.estimated_budget
+211,what was the budget for the movie avatar,movie.estimated_budget
+212,what was the budget of the movie avatar,movie.estimated_budget
+213,how much did the movie avatar cost,movie.estimated_budget
+214,how much money was spent on batman,movie.estimated_budget
+215,tell me the budget for the movie batman,movie.estimated_budget
+216,how much did batman begins cost,movie.estimated_budget
+217,how much was it to make the film batman begins,movie.estimated_budget
+218,budget for the avengers,movie.estimated_budget
+219,how much did it take to make the avengers,movie.estimated_budget
+220,what was the budget for the avengers,movie.estimated_budget
+221,what was the budget for citizen kane,movie.estimated_budget
+222,find out the budget of cujo,movie.estimated_budget
+223,budget for gone with the wind,movie.estimated_budget
+224,gone with the wind budget information please,movie.estimated_budget
+225,gone with the wind budget,movie.estimated_budget
+226,show me the budget for the movie,movie.estimated_budget
+227,budget for the hulk,movie.estimated_budget
+228,budget request for my big fat greek wedding,movie.estimated_budget
+229,find the budget of my big fat greek wedding,movie.estimated_budget
+230,how much did my big fat greek wedding cost,movie.estimated_budget
+231,what was the budget of my big fat greek wedding,movie.estimated_budget
+232,what was the budget for old school,movie.estimated_budget
+233,what was the bourne identity budget,movie.estimated_budget
+234,how much did it cost to produce the deer hunter,movie.estimated_budget
+235,provide the cost for producing the deer hunter,movie.estimated_budget
+236,will you show the cost to produce the deer hunter,movie.estimated_budget
+237,what was the budget for the hobbit,movie.estimated_budget
+238,can i see what the lion king budget was,movie.estimated_budget
+239,show me the lion king budget,movie.estimated_budget
+240,what was the budget for passion of the christ,movie.estimated_budget
+241,what was the budget for top gun,movie.estimated_budget
+242,what was top gun budget,movie.estimated_budget
+243,who does ellen degeneres play in finding nemo,movie.starring.actor movie.starring.character
+244,what character did tom hanks play in apollo thirteen,movie.starring.actor movie.starring.character
+245,lion king characters,movie.starring.character
+246,what character did will smith play in hitch,movie.starring.actor movie.starring.character
+247,what role did sarah polley play in go,movie.starring.actor movie.starring.character
+248,what was kevin james role in hitch,movie.starring.actor movie.starring.character
+249,who directed the music in gone with the wind,movie.music
+250,show me the music composer for the movie,movie.music
+251,who directed the musical score in barfi,movie.music
+252,how many films did ed harris do with tom hanks,movie.starring.actor
+253,how many movies were released on nine twenty eight twelve,movie.initial_release_date
+254,how many movies were filmed in asia,movie.locations
+255,how many films directed by barbra streisand have been shot in the czech republic,movie.locations movie.directed_by
+256,how many movies has albert ruddy produced,movie.produced_by
+257,how many movies has lionsgate done,movie.production_companies
+258,how many movies did richard lester direct,movie.directed_by
+259,how many films has taye diggs been in,movie.starring.actor
+260,how many movies has ray stark produced,movie.produced_by
+261,how many producers did the movie the hitch have,movie.produced_by
+262,how many movies has charles vidor directed,movie.directed_by
+263,how many movies has kristen stewart made,movie.starring.actor
+264,i wonder how many movies alfred hitchcock was in that he directed,movie.starring.actor movie.directed_by
+265,how many movies has steven spielberg directed,movie.directed_by
+266,how many films did robert wise direct,movie.directed_by
+267,how many movies has tom cruise starred in,movie.starring.actor
+268,how many movies did scorsese direct,movie.directed_by
+269,how many movies has angelina jolie been in,movie.starring.actor
+270,how many movies did victor fleming direct,movie.directed_by
+271,how many movies has woody allen directed,movie.directed_by
+272,how many movies has darla anderson produced,movie.produced_by
+273,how many films did alfred hitchcock direct,movie.directed_by
+274,how many movies did hitchcock direct,movie.directed_by
+275,how many movies has tom hanks starred in,movie.starring.actor
+276,how many woody allen movies starred diane keaton,movie.starring.actor movie.directed_by
+277,how many films has ed harris starred in,movie.starring.actor
+278,how many movies are made in the united states,movie.country
+279,where was footnote made,movie.country
+280,what country did the flowers of war come from,movie.country
+281,country of le havre,movie.country
+282,what country does the movie kati patang comes from,movie.country
+283,show me the name of the country for the movie thoda pyaar thoda magic,movie.country
+284,can you tell me which country the movie kati patang comes from,movie.country
+285,i need to know the name of the country to which the movie kati patang belongs to,movie.country
+286,show me the name of the country from which the movie kati patang comes,movie.country
+287,can you tell me which country does thoda pyaar thoda magic belongs to,movie.country
+288,give me the name of the country for the movie thoda pyaar thoda magic,movie.country
+289,i need to know which country does the movie thoda pyaar thoda magic belongs to,movie.country
+290,country that made a separation,movie.country
+291,what country is godzilla,movie.country
+292,country of weekend,movie.country
+293,i would like to search for what country cell 21 is from,movie.country
+294,look for what country cell 21 is from,movie.country
+295,what country is cell 21 from,movie.country
+296,what country did black beauty come from,movie.country
+297,i need to know where trainspotting comes from,movie.country
+298,tell me where is trainspotting from,movie.country
+299,which country made elizabeth,movie.country
+300,where was trainspotting made,movie.country
+301,what country did shindler list come from,movie.country
+302,which country is this movie from,movie.country
+303,show me where black swan is from,movie.country
+304,where was black swan produced,movie.country
+305,what is the origin of casa blanca,movie.country
+306,origin of gone with the wind,movie.country
+307,lion king filmed at,movie.country
+308,where was rocky four filmed,movie.country
+309,origin of spanglish,movie.country
+310,movie made where,movie.country
+311,what country is movie from,movie.country
+312,in what country was movie made,movie.country
+313,where was movie made,movie.country
+314,is this a foreign film,movie.country
+315,is this a foreign film,movie.country
+316,what country was kinky boots made in,movie.country
+317,what country is outside the law from,movie.country
+318,what country produced the movie mirror,movie.country
+319,what country does mirror come from,movie.country
+320,what country does les miserable come from,movie.country
+321,what is the origin country of mirror,movie.country
+322,in what country was the movie mirror produced,movie.country
+323,where was the movie mirror produced,movie.country
+324,when can i see top gun,movie.initial_release_date
+325,when was top gun released,movie.initial_release_date
+326,when does top gun come out,movie.initial_release_date
+327,when the movie top gun was released,movie.initial_release_date
+328,when did richard lester start directing,movie.directed_by movie.initial_release_date
+329,when was in july released,movie.initial_release_date
+330,give me the release date for the little mermaid,movie.initial_release_date
+331,what date was spider released,movie.initial_release_date
+332,can you tell me when 24 will be released,movie.initial_release_date
+333,do you know when 24 will be released,movie.initial_release_date
+334,i want to know when 24 will be released,movie.initial_release_date
+335,when will 24 be released,movie.initial_release_date
+336,how will i know when the movie gone with the wind will be released,movie.initial_release_date
+337,please tell me when was the movie gone with the wind released,movie.initial_release_date
+338,please tell me when will the movie gone with the wind will be released,movie.initial_release_date
+339,when will the movie gone with the wind be released,movie.initial_release_date
+340,do you know when this movie is available,movie.initial_release_date
+341,what year was the movie released,movie.initial_release_date
+342,which decade did the movie come out,movie.initial_release_date
+343,which month was the movie released,movie.initial_release_date
+344,release day for the movie,movie.initial_release_date
+345,may i have the date of release for this movie,movie.initial_release_date
+346,release date for the vow,movie.initial_release_date
+347,when was black beauty released,movie.initial_release_date
+348,titanic release date,movie.initial_release_date
+349,when did lionsgate start making movies,movie.production_companies movie.initial_release_date
+350,search when the birds will be released,movie.initial_release_date
+351,what year did spielberg start directing movies,movie.directed_by movie.initial_release_date
+352,the godfather came out when,movie.initial_release_date
+353,when can i see the great gatsby,movie.initial_release_date
+354,when will the great gatsby be out,movie.initial_release_date
+355,when will the great gatsby be released,movie.initial_release_date
+356,when will jaws be released,movie.initial_release_date
+357,when will the hobbit be released,movie.initial_release_date
+358,what year was the hobbit relased,movie.initial_release_date
+359,what year did the movie grease open,movie.initial_release_date
+360,movie little women release date is when,movie.initial_release_date
+361,release date for little women,movie.initial_release_date
+362,when was the movie title little women released,movie.initial_release_date
+363,can you please tell me when was karate kid released,movie.initial_release_date
+364,karate kid release date,movie.initial_release_date
+365,find release date for karate kid,movie.initial_release_date
+366,when did dirty dancing come out,movie.initial_release_date
+367,when was dirty dancing released,movie.initial_release_date
+368,what year was dirty dancing released,movie.initial_release_date
+369,when was dirty dancing released,movie.initial_release_date
+370,when was overboard released,movie.initial_release_date
+371,what year did moon over parador come out,movie.initial_release_date
+372,release date for batman,movie.initial_release_date
+373,when did jurassic park get released,movie.initial_release_date
+374,lion king release yr,movie.initial_release_date
+375,when was while you were sleeping released,movie.initial_release_date
+376,what year was ed harris in in apollo thirteen,movie.starring.actor movie.initial_release_date
+377,what was the date when welcome to the dollhouse was released,movie.initial_release_date
+378,release date for toy story,movie.initial_release_date
+379,what was the relase date for men in black,movie.initial_release_date
+380,when was life is beautiful released,movie.initial_release_date
+381,when was life is beautiful released,movie.initial_release_date
+382,when life is beautiful was released,movie.initial_release_date
+383,what is possessed realese date,movie.initial_release_date
+384,look up the release date of resident evil,movie.initial_release_date
+385,what is resident evil release date,movie.initial_release_date
+386,when did resident evil come out,movie.initial_release_date
+387,when did resident evil debut in theaters,movie.initial_release_date
+388,when did theaters show resident evil,movie.initial_release_date
+389,when was the release date for the movie resident evil,movie.initial_release_date
+390,when was resident evil first in theatres,movie.initial_release_date
+391,when was the scooby do movie released,movie.initial_release_date
+392,when was finding nemo released,movie.initial_release_date
+393,release date for finding nemo,movie.initial_release_date
+394,when was finding nemo released,movie.initial_release_date
+395,when was finding nemo released,movie.initial_release_date
+396,in which date varsham movie released,movie.initial_release_date
+397,in which month varsham movie released,movie.initial_release_date
+398,release twilight,movie.initial_release_date
+399,frankenstein release,movie.initial_release_date
+400,frankenstein release date,movie.initial_release_date
+401,when will the movie frankenstein be released,movie.initial_release_date
+402,when was hum tum relesed,movie.initial_release_date
+403,i want to know when step up was released,movie.initial_release_date
+404,i would like to know when the movie step up was released,movie.initial_release_date
+405,when was step up released,movie.initial_release_date
+406,when was the movie step up released,movie.initial_release_date
+407,when did happiness get released,movie.initial_release_date
+408,when will paranormal activity be released,movie.initial_release_date
+409,avatar realease date,movie.initial_release_date
+410,avatar release,movie.initial_release_date
+411,what was the release date for avatar,movie.initial_release_date
+412,when did the movie avatar get released,movie.initial_release_date
+413,when avatar released,movie.initial_release_date
+414,when was avatar released,movie.initial_release_date
+415,i need to know when was the movie avatar released,movie.initial_release_date
+416,what day avatar released,movie.initial_release_date
+417,what was the release date of the movie avatar,movie.initial_release_date
+418,when was avatar released,movie.initial_release_date
+419,what date was avatar released,movie.initial_release_date
+420,when was black swan in the theatre,movie.initial_release_date
+421,when was black swan released,movie.initial_release_date
+422,how long has black swan been out,movie.initial_release_date
+423,find release date of the help,movie.initial_release_date
+424,when can the help be released,movie.initial_release_date
+425,tell me when compliance came out,movie.initial_release_date
+426,when is sinister hitting theaters,movie.initial_release_date
+427,release date for the hunger games,movie.initial_release_date
+428,when was the first hunger games shown,movie.initial_release_date
+429,when was avengers released,movie.initial_release_date
+430,when was lawless released,movie.initial_release_date
+431,release date of snow white and the huntsman,movie.initial_release_date
+432,release date for amazing spiderman,movie.initial_release_date
+433,when will the next amazing spiderman come out,movie.initial_release_date
+434,when was the amazing spiderman released in the movie theatres,movie.initial_release_date
+435,search for the release date of vulgaria,movie.initial_release_date
+436,when did vulgaria come out,movie.initial_release_date
+437,when was the movie vulgaria released,movie.initial_release_date
+438,what date did vulgaria open,movie.initial_release_date
+439,when did dredd come out,movie.initial_release_date
+440,what year was the godfather released,movie.initial_release_date
+441,release date for the watch,movie.initial_release_date
+442,when was paranorman be released,movie.initial_release_date
+443,what year was the campaign released,movie.initial_release_date
+444,when was the campaign released,movie.initial_release_date
+445,when was expendables 2 released,movie.initial_release_date
+446,when is the release date of resident evil: retribution,movie.initial_release_date
+447,what is the calendar date release for looper,movie.initial_release_date
+448,i would like to know the release date of the movie barfi,movie.initial_release_date
+449,i need to know the release date of the movie barfi,movie.initial_release_date
+450,what is the release date of the movie barfi,movie.initial_release_date
+451,show me the release date of the movie barfi,movie.initial_release_date
+452,find the release date for heroine,movie.initial_release_date
+453,please find the release date of heroine,movie.initial_release_date
+454,what is the release date of heroine,movie.initial_release_date
+455,when was herione released,movie.initial_release_date
+456,when was the movie heroine released,movie.initial_release_date
+457,when was house at the end of the street released,movie.initial_release_date
+458,when house at the end of the street showing,movie.initial_release_date
+459,what is the release date for house at the end of the street,movie.initial_release_date
+460,is iron man 3 in theatres yet,movie.initial_release_date
+461,when is iron man 3 coming out,movie.initial_release_date
+462,when will iron man 3 be out in movie theatres,movie.initial_release_date
+463,show me movies listed by directors,movie.directed_by
+464,director for gone with the wind,movie.directed_by
+465,show me the directors of gone with the wind,movie.directed_by
+466,who are the directors of gone with the wind,movie.directed_by
+467,who directed gone with the wind,movie.directed_by
+468,who directed gone with the wind,movie.directed_by
+469,who directed gone with the wind,movie.directed_by
+470,who directed the movie,movie.directed_by
+471,show me details about the directors of gone with the wind,movie.directed_by
+472,who directed black swan,movie.directed_by
+473,who the director of pi,movie.directed_by
+474,who made batman the dark knight,movie.directed_by
+475,tell me about inception director,movie.directed_by
+476,show me the director of the film the dark knight,movie.directed_by
+477,tell me the director of the film the dark knight,movie.directed_by
+478,who directed the movie the dark knight,movie.directed_by
+479,who filmed the dark knight,movie.directed_by
+480,who is the person that directed the film the dark knight,movie.directed_by
+481,which director directed a hard day night,movie.directed_by
+482,who directed a hard day night,movie.directed_by
+483,who directed a hard day night,movie.directed_by
+484,who directed hard days night,movie.directed_by
+485,who directed cast away,movie.directed_by
+486,show me the director of forest gump,movie.directed_by
+487,who was the director of forest gump,movie.directed_by
+488,who is director of sleepless in seattle,movie.directed_by
+489,who directed the movie opening night,movie.directed_by
+490,who directed the movie men in black 3,movie.directed_by
+491,who was the director in men in black 3,movie.directed_by
+492,can you tell me the director of the titanic,movie.directed_by
+493,director for titanic,movie.directed_by
+494,who was the director of the movie titanic,movie.directed_by
+495,display director of the movie avengers,movie.directed_by
+496,director of the avengers,movie.directed_by
+497,search director of the exorcist,movie.directed_by
+498,find the director for the social network,movie.directed_by
+499,find the director of big,movie.directed_by
+500,who is the director of ghost busters,movie.directed_by
+501,find the director for pretty woman,movie.directed_by
+502,who made godzilla,movie.directed_by movie.produced_by
+503,rocky director,movie.directed_by
+504,who directed hope floats,movie.directed_by
+505,avatar was directed by whom,movie.directed_by
+506,director of avatar,movie.directed_by
+507,which director directed avatar,movie.directed_by
+508,who did avatar,movie.directed_by
+509,who directed avatar,movie.directed_by
+510,who directed avatar,movie.directed_by
+511,who directed avatar,movie.directed_by
+512,who directed the film avatar,movie.directed_by
+513,who directed the movie called avatar,movie.directed_by
+514,who made the movie avatar,movie.directed_by
+515,who was the director of the movie avatar,movie.directed_by
+516,who directed star wars four,movie.directed_by
+517,who directed the movie in july,movie.directed_by
+518,who made steel magnolias,movie.directed_by
+519,the silence of the lambs director,movie.directed_by
+520,director of the incredibles,movie.directed_by
+521,gilda director,movie.directed_by
+522,list gilda director,movie.directed_by
+523,search director for gilda,movie.directed_by
+524,search gilda director,movie.directed_by
+525,the movie gilda director,movie.directed_by
+526,who directed gilda,movie.directed_by
+527,who directed gilda,movie.directed_by
+528,who directed gilda,movie.directed_by
+529,who directed the movie gilda,movie.directed_by
+530,goodfellas director,movie.directed_by
+531,who made field of dreams,movie.directed_by
+532,who made the movie field of dreams,movie.directed_by
+533,who made the movie field of dreams possible,movie.directed_by
+534,can i please see more details for the director of finding nemo,movie.directed_by
+535,find the director for finding nemo,movie.directed_by
+536,i want to know the director of finding nemo,movie.directed_by
+537,i want to know who directed finding nemo,movie.directed_by
+538,show me finding nemo director,movie.directed_by
+539,who directed finding nemo,movie.directed_by
+540,who directed finding nemo,movie.directed_by
+541,who directed finding nemo,movie.directed_by
+542,who directed finding nemo,movie.directed_by
+543,who directed finding nemo,movie.directed_by
+544,who directed finding nemo,movie.directed_by
+545,who was the director of the film finding nemo,movie.directed_by
+546,who directed hitch,movie.directed_by
+547,who made hitch,movie.directed_by
+548,director for anne of green gables,movie.directed_by
+549,search director of the movie platoon,movie.directed_by
+550,who was the director of movie varsham,movie.directed_by
+551,who directed grizzly man,movie.directed_by
+552,who directed to kill a mockingbird,movie.directed_by
+553,who was the director of the movie e t,movie.directed_by
+554,find the director for et,movie.directed_by
+555,who made et,movie.directed_by
+556,who was the director of the movie jaws,movie.directed_by
+557,look up info about jurassic park director,movie.directed_by
+558,who directed jurassic park,movie.directed_by
+559,who directed jurassic park,movie.directed_by
+560,who directed jurassic park,movie.directed_by
+561,old man director,movie.directed_by
+562,can you find out who directed the movie batman,movie.directed_by
+563,can you tell me who is the director of batman,movie.directed_by
+564,who directed batman,movie.directed_by
+565,who is the director of batman,movie.directed_by
+566,looper directors,movie.directed_by
+567,who directed the perfect storm,movie.directed_by
+568,who directed dirty dancing,movie.directed_by
+569,director for pride and prejudice,movie.directed_by
+570,who directed the movie the thing called love,movie.directed_by
+571,director of twilight,movie.directed_by
+572,twilight was directed by whom,movie.directed_by
+573,who else directs zombie movies,movie.directed_by movie.subjects
+574,director of hum tum,movie.directed_by
+575,director of the movie hum tum,movie.directed_by
+576,find the director of hum tum,movie.directed_by
+577,look for the director of hum tum,movie.directed_by
+578,director of the cabin in the woods,movie.directed_by
+579,i am interested in who directed cabin in the woods,movie.directed_by
+580,show me who directed cabin in the woods,movie.directed_by
+581,who directed the movie cabin in the woods,movie.directed_by
+582,who directed soul surfer,movie.directed_by
+583,who directed the sandlot,movie.directed_by
+584,which director made a comedy,movie.directed_by movie.genre
+585,director of halloween,movie.directed_by
+586,find the director of step up,movie.directed_by
+587,search for the director of step up,movie.directed_by
+588,search for the director of step up,movie.directed_by
+589,i need to know who directed black swan,movie.directed_by
+590,i want to look for the director of freedom writers,movie.directed_by
+591,i would like to look for the director of freedom writers,movie.directed_by
+592,who directed the movie titanic,movie.directed_by
+593,who was the director of the movie the mechanic,movie.directed_by
+594,find the director of mask,movie.directed_by
+595,director of the hulk,movie.directed_by
+596,did robert wise direct the sound of music,movie.directed_by
+597,was robert wise the only director of the sound of music,movie.directed_by
+598,who directed the sound of music,movie.directed_by
+599,who directed the sound of music,movie.directed_by
+600,who directed the sound of music,movie.directed_by
+601,what director shot the 1st lord of the rings film,movie.directed_by
+602,who directed return,movie.directed_by
+603,who is the director of return,movie.directed_by
+604,search for the name of the director of return,movie.directed_by
+605,what was the name of the director in men in black 3,movie.directed_by
+606,what is the name of the director of the movie avengers,movie.directed_by
+607,find the name of the director of chips,movie.directed_by
+608,name of director for house at the end of the street,movie.directed_by
+609,name the director of sleepless in seattle,movie.directed_by
+610,find name of director of the movie platoon,movie.directed_by
+611,get me the name of who directed the master,movie.directed_by
+612,what is the director name of lord of the rings,movie.directed_by
+613,what is the name of the person who made et,movie.directed_by
+614,rocky director name,movie.directed_by
+615,what type of movie is gilda,movie.genre
+616,what types of movies does lionsgate produce,movie.production_companies movie.genre
+617,what kind of movie is black swan,movie.genre
+618,what genre is the hunger games,movie.genre
+619,genre for transformers,movie.genre
+620,what genre is looper,movie.genre
+621,what genre is the movie looper,movie.genre
+622,what genre is rambo,movie.genre
+623,what genre is the jaws movies,movie.genre
+624,can you tell me the genre for 1000 words,movie.genre
+625,i am interested in the genre for 1000 words,movie.genre
+626,what type of movie is parenthood,movie.genre
+627,give me the genre of the movie lawless,movie.genre
+628,what genre is the movie lawless,movie.genre
+629,what is the genre of the movie lawless,movie.genre
+630,what genre is the movie in july,movie.genre
+631,genre for gone with the wind,movie.genre
+632,how is the movie classified,movie.genre
+633,what genre is the movie,movie.genre
+634,what is the movie category,movie.genre
+635,how would you describe the movie,movie.genre
+636,type of movie,movie.genre
+637,what is the classification of movie,movie.genre
+638,what is the genre for movie,movie.genre
+639,what is the movie genre,movie.genre
+640,what kind of movie,movie.genre
+641,what type of movie is this,movie.genre
+642,i would like look up the genre step up is in,movie.genre
+643,search for the genre step up in,movie.genre
+644,what genre is step up in,movie.genre
+645,what genre is calendar girls in,movie.genre
+646,what is the genre for the patriot,movie.genre
+647,what genre is network in,movie.genre
+648,find out the genre for the movie rebel,movie.genre
+649,genre for the avengers,movie.genre
+650,can you tell me what genre the movie avatar falls in,movie.genre
+651,i need to know the genre of the movie avatar,movie.genre
+652,show me the genre of the movie avatar,movie.genre
+653,what genre is superman,movie.genre
+654,pretty girl movie genre,movie.genre
+655,pretty girl what is the movie genre,movie.genre
+656,what genre is pretty girl,movie.genre
+657,what genre is the movie pretty girl,movie.genre
+658,find out what kind of movie grease is,movie.genre
+659,i d like to know the genre of the film grease,movie.genre
+660,i would like to know the genre of grease,movie.genre
+661,what kind of movie is grease,movie.genre
+662,find out the genre for the movie annamayya,movie.genre
+663,what movie category is friday the 13th,movie.genre
+664,tell me what genre the tommyknockers is,movie.genre
+665,what genre is the hangover,movie.genre
+666,what catergory is ted in,movie.genre
+667,what genre is ted considered,movie.genre
+668,what type of movie is ted considered to be,movie.genre
+669,genre for while you were sleeping,movie.genre
+670,what genre is finding nemo,movie.genre
+671,which language is used in the movie,movie.language
+672,language of sound of music,movie.language
+673,what language is this film,movie.language
+674,what are the different languages this movie come in,movie.language
+675,what foreign language is spoken in movie,movie.language
+676,what language is movie in,movie.language
+677,what language is the movie in,movie.language
+678,what language is the movie in,movie.language
+679,language of anna karinia,movie.language
+680,language of godzilla movie,movie.language
+681,language of hamlet,movie.language
+682,can you tell me the language of the movie hero,movie.language
+683,i need to know what is the language of the movie hero,movie.language
+684,tell me what is the language of the movie hero,movie.language
+685,language of bullhead,movie.language
+686,what language is shindler list in,movie.language
+687,what language did the characters speak in black swan,movie.language
+688,what language is black swan,movie.language
+689,please find what language the chaser is in,movie.language
+690,what language is the chaser in,movie.language
+691,look up what language the chaser is in,movie.language
+692,ondskan language,movie.language
+693,what language is la havre in,movie.language
+694,what foreign language is the movie belle available to view in,movie.language
+695,what language can i watch the movie the professional,movie.language
+696,what language is the professional in,movie.language
+697,how do they speak in the movie the professional,movie.language
+698,what language is spoken in indochine,movie.language
+699,language of the film revanche,movie.language
+700,what language was aguirre wrath of god in,movie.language
+701,what language is passion of the christ in,movie.language
+702,i want to know in what language was ju on filmed,movie.language
+703,i want to know the original language of ju on,movie.language
+704,tell me the language of ju on,movie.language
+705,what language is ju on on,movie.language
+706,what language is the movie elling in,movie.language
+707,language of a separation,movie.language
+708,what s the language of moscow does not believe in tears,movie.language
+709,what is the language of the movie aankhen,movie.language
+710,can you tell me the language of the movie aankhen,movie.language
+711,what are the names of films produced by steven spielberg,movie.produced_by
+712,can you tell me names of some movies by director martin scorsese,movie.directed_by
+713,find movie titles,
+714,what are the names of movies made in the united states,movie.country
+715,i would like to know the names of all the movies which have been directed by james cameron,movie.directed_by
+716,what are the titles of all the movies that george lucas produced,movie.produced_by
+717,names of romantic indian films,movie.country movie.language movie.genre
+718,can you show me names of some indian romantic movies,movie.country movie.language movie.genre
+719,i would like to know names of some indian movies,movie.country movie.language
+720,japanese movie titles,movie.country movie.language
+721,can you give me names of some movies having pg thirteen rating,movie.rating
+722,i would like to get names of some movies with pg thirteen rating,movie.rating
+723,show me names of some romantic movies having a pg thirteen rating,movie.rating movie.genre
+724,what are the names of movies with zombies in them,movie.subjects
+725,i need to know the names of all the movies produced by william packer,movie.produced_by
+726,stephen king directed what movie,movie.directed_by
+727,what movies did stephen king direct,movie.directed_by
+728,watch the last james cameron movie,movie.directed_by movie.initial_release_date
+729,find movies by release date,movie.initial_release_date
+730,show movie ratings,movie.rating
+731,movie ratings,movie.rating
+732,richard lester produced what other movies,movie.produced_by
+733,show me westerns,movie.genre
+734,was kevin bacon in apollo thirteen,movie.starring.actor
+735,i need movie information for life is beautiful,none
+736,life is beautiful movie page,none
+737,i want to know more about the movie life is beautiful,none
+738,i would like info on the movie life is beautiful,none
+739,please show me info on the movie life is beautiful,none
+740,search for the movie life is beautiful,none
+741,what are the particulars for the movie life is beautiful,none
+742,can i see more info the movie life is beautiful,none
+743,can you show me info on the movie life is beautiful please,none
+744,display information for the movie life is beautiful,none
+745,find movies about dancing,movie.subjects
+746,i want to look up movies about dancing,movie.subjects
+747,look up movies about dancing,movie.subjects
+748,search for movies about dancing,movie.subjects
+749,give me a list of will ferrell films,movie.starring.actor
+750,i want to see any movies will ferrell has been in,movie.starring.actor
+751,i would like to see will ferrell movies,movie.starring.actor
+752,list will ferrell films,movie.starring.actor
+753,movies will ferrell played in,movie.starring.actor
+754,what are some films will ferrell starred in,movie.starring.actor
+755,what movies has will ferrell been in,movie.starring.actor
+756,what movies is will ferrell in,movie.starring.actor
+757,will ferrell films,movie.starring.actor
+758,will ferrell movies,movie.starring.actor
+759,will ferrell movies,movie.starring.actor
+760,will ferell videos,movie.starring.actor
+761,i want to see videos of will ferrell,movie.starring.actor
+762,all videos of will ferrell,movie.starring.actor
+763,can you find me movies in russian,movie.language
+764,where can i find movies in russian,movie.language
+765,find russian movies,movie.country movie.language
+766,find russian movies,movie.country movie.language
+767,search for russian movies,movie.country movie.language
+768,show me movies from poland,movie.country
+769,i would like to see a polish language film,movie.language
+770,i am interested in watching a movie in polish,movie.language
+771,i want to see a polish movie,movie.country movie.language
+772,list some funny russian movies,movie.country movie.language movie.genre
+773,i am looking for the information on the movie pretty women,none
+774,list of barry sonnenfeld films,movie.directed_by
+775,find martin scorsese films,movie.directed_by
+776,i want to see a movie which was directed by scorsese,movie.directed_by
+777,show all movies directed by martin scorcese,movie.directed_by
+778,movies with meg ryan,movie.starring.actor
+779,gross earnings for movies,movie.gross_revenue
+780,i want to watch movies directed by jackie chan,movie.directed_by
+781,star wars,none
+782,what are the plots of hotel rwanda,none
+783,tim burton movies,movie.directed_by
+784,bings movie page finding nemo,none
+785,display information for film finding nemo,none
+786,finding nemo movie shortcut,none
+787,whats some details for the movie finding nemo,none
+788,show all details of original finding nemo movie,movie.initial_release_date
+789,get details of original finding nemo movie,movie.initial_release_date
+790,finding nemo movie page,none
+791,find movie finding nemo,none
+792,display all details of original finding nemo movie,none
+793,find all details of original finding nemo movie,none
+794,what has andrew stanton directed,movie.directed_by
+795,what movies has andrew stanton directed,movie.directed_by
+796,what did lee unkrich direct,movie.directed_by
+797,i would like to see a movie with albert brooks in it,movie.starring.actor
+798,find me films produced by drew barrymore,movie.produced_by
+799,what movies that clint eastwood starred in did he also direct,movie.starring.actor movie.directed_by
+800,what movies did clint eastwood direct and star in,movie.starring.actor movie.directed_by
+801,i want to watch a movie by sergio leone,movie.directed_by
+802,show sergio leone movies,movie.directed_by
+803,show me movies directed by sergio leone,movie.directed_by
+804,movies that have been directed by tony scott,movie.directed_by
+805,show me movies from brazil,movie.country
+806,show me horror movie earnings,movie.gross_revenue movie.genre
+807,movies with harrison ford,movie.starring.actor
+808,show me only movies with harrison ford,movie.starring.actor
+809,name the movies clive owen has been in,movie.starring.actor
+810,what movies has clive owen been in,movie.starring.actor
+811,what movies has clive owen starred in,movie.starring.actor
+812,find ms. congeniality,none
+813,find spike lee directed movies,movie.directed_by
+814,what movies did spike lee direct,movie.directed_by
+815,movies cecil b demille,movie.directed_by
+816,i want to see a comedy in spanish,movie.language movie.genre
+817,find films,none
+818,find films,none
+819,find movies,none
+820,in search for movies,none
+821,looking for movies,none
+822,find a movie,none
+823,are there movies not rated g,movie.rating
+824,i don't want any g rated movies,movie.rating
+825,can you find some drama movies,movie.genre
+826,i'd like to watch something with drama,movie.genre
+827,looking for a drama movie,movie.genre
+828,show me a list of movies in english,movie.language
+829,show me english movies,movie.language
+830,find english movies,movie.language
+831,can i get a list of movies available in english,movie.language
+832,show me movies in english,movie.language
+833,i would like to see movies in english,movie.language
+834,movies in english,movie.language
+835,show me a list of all movies made in the united states,movie.country
+836,what are all movies made by united states,movie.country
+837,what movies have been made in the united states,movie.country
+838,movies from the us,movie.country
+839,what are all of the movies made in usa,movie.country
+840,i want to see movies made in america,movie.country
+841,show me a list of movies made in america,movie.country
+842,show me movies made in america,movie.country
+843,please tell me if you have any movies from the united states,movie.country
+844,movies from the us,movie.country
+845,please tell me about movies from the usa,movie.country
+846,english movie list,movie.country movie.language
+847,show me thrillers,movie.genre
+848,show me thrillers,movie.genre
+849,show me comedies,movie.genre
+850,looking for a comedy movie,movie.genre
+851,see comedy,movie.genre
+852,show me comedy movies,movie.genre
+853,show me funny movies,movie.genre
+854,movies that have comedy,movie.genre
+855,can you show me a list of scary movies,movie.genre
+856,i am in the mood for a horror film,movie.genre
+857,looking for a horror movie,movie.genre
+858,search for horror movies,movie.genre
+859,show me horror movies,movie.genre
+860,show only horror movies,movie.genre
+861,show me a list of scary movies,movie.genre
+862,i want to see a list of scary movies,movie.genre
+863,funny scary movies,movie.genre
+864,movies by producer,movie.produced_by
+865,find movies by producer,movie.produced_by
+866,movies with bruce willis,movie.starring.actor
+867,clint eastwood movies,movie.starring.actor
+868,find movies from canada,movie.country
+869,get me canadian movies,movie.country
+870,show me movies from canada,movie.country
+871,look up information about canadian movies,movie.country
+872,get movies from canada,movie.country
+873,show me a list of any movies made in canada,movie.country
+874,find movies filmed in canada,movie.country
+875,get films made in canada,movie.country
+876,show me canadian films,movie.country
+877,show me canadian movies,movie.country
+878,are there any canadian movies,movie.country
+879,are there any canadian movies,movie.country
+880,find canadian films,movie.country
+881,what are some movies made outside the us,movie.country
+882,movies from germany,movie.country
+883,i want to watch movies from germany,movie.country
+884,display movies made in germany,movie.country
+885,find movies done in germany,movie.country
+886,what movies do you have that were made in italy,movie.country
+887,movies from italy,movie.country
+888,does italy make any movies,movie.country
+889,find italian movies,movie.country movie.language
+890,italian films,movie.country movie.language
+891,italian movies,movie.country movie.language
+892,show me italian movies,movie.country movie.language
+893,get all italian language movies,movie.language
+894,send me movies that are in italian,movie.language
+895,movies with italian language,movie.language
+896,show me movies in italian,movie.language
+897,what movies are in italian,movie.language
+898,search for movies in italian,movie.language
+899,find movies in italian,movie.language
+900,a list of all italian speaking movies,movie.language
+901,give me a list of movies from spain,movie.country
+902,see movies from spain,movie.country
+903,movies from spain,movie.country
+904,movies from spain,movie.country
+905,i want to see movies from spain,movie.country
+906,movies made in spain,movie.country
+907,are there any movies made in spain,movie.country
+908,bring up spanish movies,movie.country movie.language
+909,can you show me movies spanish,movie.country movie.language
+910,can you show me spanish movies,movie.country movie.language
+911,find spanish movies,movie.country movie.language
+912,find spanish movies,movie.country movie.language
+913,get me spanish movies,movie.country movie.language
+914,I'd like a list of spanish movies,movie.country movie.language
+915,I'd like to know some spanish movies,movie.country movie.language
+916,i want only spanish movies,movie.country movie.language
+917,i want to look up spanish movies,movie.country movie.language
+918,list spanish movies,movie.country movie.language
+919,list spanish movies,movie.country movie.language
+920,look for spanish movies,movie.country movie.language
+921,search for spanish movies,movie.country movie.language
+922,search for spanish movies,movie.country movie.language
+923,show me spanish movies,movie.country movie.language
+924,spanish movie listing,movie.country movie.language
+925,spanish movies,movie.country movie.language
+926,find romance movies,movie.genre
+927,give me a list of romance movies,movie.genre
+928,find me romantic movies,movie.genre
+929,i want to find romantic movies,movie.genre
+930,locate romantic movies for me,movie.genre
+931,list some movies that are in french,movie.language
+932,find french language movies,movie.language
+933,find movies in french,movie.language
+934,find movies is french,movie.language
+935,list movies in french,movie.language
+936,look for movies in french,movie.language
+937,search for movies in french,movie.language
+938,search for movies in french,movie.language
+939,show me movies produced in french,movie.language
+940,show movies in french,movie.language
+941,show only movies that are in french,movie.language
+942,find french language movies,movie.language
+943,list of all french speaking films,movie.language
+944,list of french language movies,movie.language
+945,show me movies in french,movie.language
+946,can you list movies in french,movie.language
+947,find all films showing in french,movie.language
+948,show me a list of all the movies produced by william packer,movie.produced_by
+949,information about movie,none
+950,show me information about movie,none
+951,show me information on movie,none
+952,tell me about movie,none
+953,please show me all of the films that involve kevin bacon,movie.starring.actor
+954,i want movies about 9-11,movie.subjects
+955,what other movies has bill paxton starred in,movie.starring.actor
+956,find some suspenseful movies,movie.genre
+957,a movie based on time travel,movie.subjects
+958,find time travel movies,movie.subjects
+959,give me a list of time travel movies,movie.subjects
+960,movies about time travel,movie.subjects
+961,show me movies about time travel,movie.subjects
+962,show me movies with time travel themes,movie.subjects
+963,show me time travel movies,movie.subjects
+964,show videos about time travel,movie.subjects
+965,time travel movies,movie.subjects
+966,what are movies whose topic involves time travel,movie.subjects
+967,movies about time travel,movie.subjects
+968,movies about time travel,movie.subjects
+969,show me movies about time travel,movie.subjects
+970,show me movies about time travel,movie.subjects
+971,show me some movies that are related to time travel,movie.subjects
+972,what are some movies that involve time travel,movie.subjects
+973,what movies discuss time travel,movie.subjects
+974,quentin tarrantino movies,movie.directed_by
+975,what movies did quentin terrantino direct,movie.directed_by
+976,list the movies anna paquin has starred in,movie.starring.actor
+977,movies from england,movie.country
+978,movies from england,movie.country
+979,movies from england please,movie.country
+980,show me england movies,movie.country
+981,show me movies from england,movie.country
+982,show me movies made in england,movie.country
+983,find movies directed by chris columbus,movie.directed_by
+984,what other movies has richard lester directed,movie.directed_by
+985,search for movies by language,movie.language
+986,mandarin movie please,movie.language
+987,please find a movie in mandarin,movie.language
+988,movie made in mandarin,movie.language
+989,which movies are originally in a foreign language,movie.language
+990,find me tamil movies,movie.language
+991,show me the latest movies in tamil,movie.language
+992,find hindi movies,movie.language
+993,find movies in hindi,movie.language
+994,list the hindi movies,movie.language
+995,what is hindi,movie.language
+996,i would like to get a list of movie names in hindi language,movie.language
+997,what films are not spoken in english,movie.language
+998,what movies are spoken in another language,movie.language
+999,i want to watch a romance made in india,movie.country movie.genre
+1000,i need to get a list of some romantic indian movies,movie.country movie.language movie.genre
+1001,find movies from india,movie.country
+1002,look up movies from india,movie.country
+1003,see movies from india,movie.country
+1004,find indian movies,movie.country movie.language
+1005,give me a list of some indian movies,movie.country movie.language
+1006,brian de palma movies,movie.directed_by
+1007,complete list of movies made by searchlight films,movie.production_companies
+1008,list movies by searchlight films,movie.production_companies
+1009,list of movies produced by searchlight films,movie.production_companies
+1010,what are some movies made by searchlight films,movie.production_companies
+1011,movies about bank robberies,movie.subjects
+1012,show me sarah polley movies,movie.starring.actor
+1013,show me french r rated dramas,movie.country movie.language movie.genre movie.rating
+1014,list french language comedy films,movie.language movie.genre
+1015,show french comedy films,movie.language movie.genre
+1016,what are some movies that were produced in europe,movie.country
+1017,films produced by laurie macdonald,movie.produced_by
+1018,find me dreamworks films,movie.production_companies
+1019,movie by dreamworks,movie.production_companies
+1020,movie made by dreamworks,movie.production_companies
+1021,what movies are made by dreamworks,movie.production_companies
+1022,i'm looking for the cost of some movies,movie.estimated_budget
+1023,what movies did kevin costner direct,movie.directed_by
+1024,dirty dancing movie,none
+1025,dirty dancing movie short cuts,none
+1026,show me the dirty dancing movie,none
+1027,will you please show me info on the movie dirty dancing,none
+1028,find the movie dirty dancing,none
+1029,get me info for the movie dirty dancing,none
+1030,i need to get every possible information related with the movie dirty dancing,none
+1031,i want to see infomation on the movie dirty dancing,none
+1032,i would like to get all the information about the movie dirty dancing,none
+1033,please show me info on the movie dirty dancing,none
+1034,show me all the information about the movie dirty dancing like story reviews cast etc,none
+1035,show me info on the movie dirty dancing please,none
+1036,show me information for the movie dirty dancing,none
+1037,show me more details for the movie dirty dancing,none
+1038,can you please show me info on the movie dirty dancing,none
+1039,can you tell me about the movie dirty dancing in detail,none
+1040,what films has robert redford directed,movie.directed_by
+1041,i want to see a robert redford produced movie,movie.produced_by
+1042,i would like to see something produced by robert redford,movie.produced_by
+1043,bette midler movies,movie.starring.actor
+1044,bette midler movies please,movie.starring.actor
+1045,show bette midler movies,movie.starring.actor
+1046,show me cameron diaz movies,movie.starring.actor
+1047,show me movies with jennifer aniston,movie.starring.actor
+1048,russell crowe movies,movie.starring.actor
+1049,about life is beautiful,none
+1050,details about life is beautiful please,none
+1051,find synopsis for life is beautiful,none
+1052,i need page on life is beautiful,none
+1053,i want information about life is beautiful,none
+1054,i want to know about life is beautiful,none
+1055,i would like to view info on life is beautiful,none
+1056,life is beautiful,none
+1057,run a search for life is beautiful,none
+1058,show me life is beautiful information,none
+1059,what the synopsis of life is beatiful,none
+1060,footloose,none
+1061,show jason statham movies,movie.starring.actor
+1062,list statham movies,movie.starring.actor
+1063,find movies from new zealand,movie.country
+1064,show me the movies acted by bala krishna,movie.starring.actor
+1065,korean language movie,movie.language
+1066,show me korean language movie,movie.language
+1067,can you find the movies with korean language,movie.language
+1068,show me movies that are in korean,movie.language
+1069,portugese movies,movie.country movie.language
+1070,current movie options for today with patrick swayze,movie.starring.actor movie.initial_release_date
+1071,display all results for dirty dancing,none
+1072,find information on dirty dancing,none
+1073,search for dirty dancing,none
+1074,search for dirty dancing,none
+1075,how can i view dirty dancing,none
+1076,dirty dancing facts,none
+1077,did alfred hitchcock direct a comedy,movie.directed_by movie.genre
+1078,martin lawrence directed what movie,movie.directed_by
+1079,find movies from japan,movie.country
+1080,show me movies from japan,movie.country
+1081,show me movies from japan,movie.country
+1082,what are some movies made in japan,movie.country
+1083,what movies came from japan,movie.country
+1084,which movies were made in japan,movie.country
+1085,i want to find a list of movies made in japan,movie.country
+1086,do you have any movies made in japan,movie.country
+1087,find japanese movies,movie.country movie.language
+1088,find japanese movies,movie.country movie.language
+1089,give me some names of japanese movies,movie.country movie.language
+1090,i want japanese movies,movie.country movie.language
+1091,i want to see japanese movies,movie.country movie.language
+1092,i would like to know names of some of the japanese movies,movie.country movie.language
+1093,japanese movies,movie.country movie.language
+1094,show me a list of some japanese movies,movie.country movie.language
+1095,show me japanese movies,movie.country movie.language
+1096,sort in all japanese movies,movie.country movie.language
+1097,do you have a list of japanese movies,movie.country movie.language
+1098,i want to see a film in japanese,movie.language
+1099,show me movies in japanese,movie.language
+1100,films with japaneese,movie.language
+1101,what movies have people speaking japanese in them,movie.language
+1102,what are some japanese movies,movie.country movie.language
+1103,find movies in british english,movie.language
+1104,find movies from miramax,movie.production_companies
+1105,see miramax movies,movie.production_companies
+1106,watch miramax,movie.production_companies
+1107,find movies with sandra bullock,movie.starring.actor
+1108,find sandra bullock movies,movie.starring.actor
+1109,movies with sandra bullock,movie.starring.actor
+1110,movies with vampires,movie.subjects
+1111,what movies about vampires are there,movie.subjects
+1112,movies will smith stars in,movie.starring.actor
+1113,show me will smith movies,movie.starring.actor
+1114,what experience does darla anderson have as a producer,movie.produced_by
+1115,look for movies directed by tyler perry,movie.directed_by
+1116,which movies are directed by tyler perry,movie.directed_by
+1117,give me movies directed by tyler perry,movie.directed_by
+1118,search for movies directed by tyler perry,movie.directed_by
+1119,what films has selena gomez been in,movie.starring.actor
+1120,find a movie with mel gibson,movie.starring.actor
+1121,only mel gibson movies,movie.starring.actor
+1122,find movies produced by paramount pictures,movie.production_companies
+1123,i want to see paramount movies,movie.production_companies
+1124,i would like a list of paramount movies,movie.production_companies
+1125,list some paramount produced films,movie.production_companies
+1126,show all movies by paramount,movie.production_companies
+1127,show me all the movies made by paramount,movie.production_companies
+1128,show only paramount movies,movie.production_companies
+1129,is there a list of movies about chess,movie.subjects
+1130,movies about chess,movie.subjects
+1131,movies regarding the hobby of chess,movie.subjects
+1132,list some of the best world war 2 films,movie.subjects
+1133,find movies about dogs,movie.subjects
+1134,find movies with a nc 17 only,movie.rating
+1135,find me nc-17 movies,movie.rating
+1136,show me nc seventeen movies,movie.rating
+1137,play movies from turkey,movie.country
+1138,what movies have come out of turkey,movie.country
+1139,can i have a list of bruce lee produced movies,movie.produced_by
+1140,can you give me a list of movies produced by bruce lee,movie.produced_by
+1141,show me movies produced by bruce lee,movie.produced_by
+1142,i want to see movies directed by michael bay,movie.directed_by
+1143,what movies did michael bay direct,movie.directed_by
+1144,ed harris films,movie.starring.actor
+1145,show me all movies that star ed harris,movie.starring.actor
+1146,more stuff about the movie go,none
+1147,is parenthood a comedy,movie.genre
+1148,find movies produced by mel gibson,movie.produced_by
+1149,what movies has jerry bruckheimer produced,movie.produced_by
+1150,i want to see chinese movies,movie.country movie.language
+1151,show me chinese movies,movie.country movie.language
+1152,show me dramas from china,movie.country movie.genre
+1153,i want to watch a drama made in china,movie.country movie.genre
+1154,give me the best baseball movies,movie.subjects
+1155,list movies filmed in ireland,movie.country movie.locations
+1156,list all the movies john travolta has done,movie.starring.actor
+1157,columbia production company movies,movie.production_companies
+1158,find me 20 th century fox films,movie.production_companies
+1159,list of 20 th century fox films,movie.production_companies
+1160,watch century fox movies,movie.production_companies
+1161,films produced by twentieth century fox,movie.production_companies
+1162,find movies by twentieth century fox,movie.production_companies
+1163,find twentieth century fox movies,movie.production_companies
+1164,search twentieth century fox,movie.production_companies
+1165,show me movies by twentieth century fox,movie.production_companies
+1166,show me elvis movies,movie.starring.actor
+1167,do you have any pg thirteen rated movies,movie.rating
+1168,show me pg thirteen movies,movie.rating
+1169,what movies are rated pg thirteen,movie.rating
+1170,find pg thirteen movies,movie.rating
+1171,show me movies that are rated pg thirteen,movie.rating
+1172,list all movies rated pg-13,movie.rating
+1173,find movies with pg-13 only,movie.rating
+1174,i need to know names of some movies which have a rating of pg-13,movie.rating
+1175,i want to find pg-13 rated movies,movie.rating
+1176,pg-13 movies,movie.rating
+1177,which movies are rated pg-13,movie.rating
+1178,find a pg-13 movie,movie.rating
+1179,find me pg-13 movies,movie.rating
+1180,find movies that are rated pg-13,movie.rating
+1181,give me a list of some movies that have pg-13 rating,movie.rating
+1182,i want to see a list of g rated movies,movie.rating
+1183,list g,movie.rating
+1184,what is a list of g movies,movie.rating
+1185,are there any g movies out there right now,movie.rating
+1186,find me movies rated g,movie.rating
+1187,find movies only g,movie.rating
+1188,get me only g-rated movies,movie.rating
+1189,i want a list of movies rated g,movie.rating
+1190,i want to see g -rated films now,movie.rating
+1191,i want to take my kids to a g movie,movie.rating
+1192,list of g movies,movie.rating
+1193,list rating g,movie.rating
+1194,listing of g movies,movie.rating
+1195,look for movies rated g,movie.rating
+1196,look up movies with a g rating,movie.rating
+1197,play list g,movie.rating
+1198,please select the option to search for g rated movies,movie.rating
+1199,rating g,movie.rating
+1200,search for movies rated g,movie.rating
+1201,show me g rated movies,movie.rating
+1202,show only g rated movies,movie.rating
+1203,what available movies are rated g,movie.rating
+1204,what movies are currently playing that are rated g,movie.rating
+1205,find me movies rated g,movie.rating
+1206,find movies that are rated g,movie.rating
+1207,find movies with g rating,movie.rating
+1208,g movies,movie.rating
+1209,it is hard to find a movie that is rated g anymore,movie.rating
+1210,list movies rated g,movie.rating
+1211,only movies rated g,movie.rating
+1212,rating g list,movie.rating
+1213,show me g movies,movie.rating
+1214,there are several g movies,movie.rating
+1215,appropriate for kids,movie.rating
+1216,what movies can young children watch,movie.rating
+1217,watch pg and g movies,movie.rating
+1218,did robert wise direct any other musical films,movie.directed_by movie.genre
+1219,find love stories,movie.subjects
+1220,find love stories,movie.subjects
+1221,show me a list of movies produced by mgm,movie.production_companies
+1222,movies from the uk,movie.country
+1223,show me british films,movie.country
+1224,list uk movies,movie.country
+1225,get films from the united kingdom,movie.country
+1226,i want to watch a comedy made in norway,movie.country movie.genre
+1227,get me a list of movies that ron howard produce,movie.produced_by
+1228,ron howard movies produce list,movie.produced_by
+1229,list movies directed by clint eastwood,movie.directed_by
+1230,show director clint eastwood movies,movie.directed_by
+1231,what movies did clint eastwood direct,movie.directed_by
+1232,movies directed by clint eastwood,movie.directed_by
+1233,list movies produced by sean penn,movie.produced_by
+1234,find movies about vietnam,movie.subjects
+1235,what movies has spielberg been a producer on,movie.produced_by
+1236,i would like to select the option to search for movies produced by stephen spielberg,movie.produced_by
+1237,please list all movies that stephen spielberg produced,movie.produced_by
+1238,select the option to search for movies produced by stephen spielberg,movie.produced_by
+1239,which productions are from stephen spilberg,movie.produced_by
+1240,find movies produced by steven spielberg,movie.produced_by
+1241,list steven spielberg produced movies,movie.produced_by
+1242,show me movies produced by stephen spielberg,movie.produced_by
+1243,was kevin james in hitch,movie.starring.actor
+1244,was will smith in hitch,movie.starring.actor
+1245,show me a list of disney movies,movie.production_companies
+1246,give me a list of some movies by producer walt disney,movie.production_companies
+1247,list all movies that walt disney produced,movie.production_companies
+1248,show all movies directed by ron howard,movie.directed_by
+1249,what movies has ron howard directed,movie.directed_by
+1250,find movies by ron howard,movie.directed_by
+1251,show movies directed by ron howard,movie.directed_by
+1252,find movies produced by brian glazer,movie.produced_by
+1253,list spielberg movies,movie.directed_by
+1254,show spielberg movies,movie.directed_by
+1255,what did spielberg direct,movie.directed_by
+1256,stephen spielberg movies,movie.directed_by
+1257,filmography for steven spielberg,movie.directed_by
+1258,find movies directed by steven spielberg,movie.directed_by
+1259,find steven spielberg movies,movie.directed_by
+1260,i want to find movies directed by stephen speilberg,movie.directed_by
+1261,list all steven spielberg movies,movie.directed_by
+1262,please find the movies by steven spielberg,movie.directed_by
+1263,show films by steven spielberg,movie.directed_by
+1264,show steven spielberg movies,movie.directed_by
+1265,show steven spielberg movies,movie.directed_by
+1266,steven spielberg movies,movie.directed_by
+1267,steven spielberg pictures,movie.directed_by
+1268,what movies has steven spielberg done,movie.directed_by
+1269,find movies directed by steven spielberg,movie.directed_by
+1270,movie by steven spielberg,movie.directed_by
+1271,movie stuff for steven spielberg,movie.directed_by
+1272,movies by steven spielberg,movie.directed_by
+1273,movies directed by steven spielberg,movie.directed_by
+1274,can i see what movies steven spielberg has done,movie.directed_by
+1275,can you find movies with steven spielberg,movie.directed_by
+1276,spielberg movies,movie.directed_by
+1277,videos of steven spielberg,movie.directed_by
+1278,find a list of movies directed by spielberg,movie.directed_by
+1279,show me the movies that spielberg made,movie.directed_by
+1280,can you please search for movies by steven spielberg,movie.directed_by
+1281,find movies directed by stephen spielberg,movie.directed_by
+1282,find movies directed by stephen spielberg,movie.directed_by
+1283,i would like to search for movies directed by stephen spielberg,movie.directed_by
+1284,list some movies directed by steven spielberg,movie.directed_by
+1285,please find movies directed by stephen spielberg,movie.directed_by
+1286,show me movies directed by steven spielberg,movie.directed_by
+1287,show me the movies directed by steven spielberg,movie.directed_by
+1288,which movies are from stephen spielberg,movie.directed_by
+1289,gilda charles vidor,movie.directed_by
+1290,show me movie gilda by charles vidor,movie.directed_by
+1291,find some musical movies,movie.genre
+1292,looking for a musical movie,movie.genre
+1293,show me a list of musicals,movie.genre
+1294,find the movie hum tum,none
+1295,find movies directed by eddie murphy,movie.directed_by
+1296,search movies by noah baumbach,movie.directed_by
+1297,search chick flicks,movie.genre
+1298,can you show me movies about war,movie.subjects
+1299,show me some war themed movies,movie.subjects
+1300,show movies concerning war,movie.subjects
+1301,please list movies about war,movie.subjects
+1302,list movies about war,movie.subjects
+1303,what movies are made by twentieth century fox television,movie.production_companies
+1304,find movies directed by todd solondz,movie.directed_by
+1305,find me movies with hugh jackman,movie.starring.actor
+1306,what ron howard movies are rated pg-13,movie.rating movie.directed_by
+1307,look for dramas made or shot in france,movie.country movie.genre
+1308,find movies from france,movie.country
+1309,i want to see movies from france,movie.country
+1310,movies from france,movie.country
+1311,what are all the movies to come out of france,movie.country
+1312,give me a list of movies made in france,movie.country
+1313,i am looking for movies made in france,movie.country
+1314,i want to see a list of movies that were made in france,movie.country
+1315,i would like to view any movies made in france,movie.country
+1316,please show me movies made in france,movie.country
+1317,find movies from france,movie.country
+1318,find movies from france,movie.country
+1319,what movies were filmed in france,movie.country
+1320,find french films,movie.country movie.language
+1321,find french movies,movie.country movie.language
+1322,find french movies,movie.country movie.language
+1323,french movies,movie.country movie.language
+1324,i would like to see french movies,movie.country movie.language
+1325,list french movies,movie.country movie.language
+1326,look for french movies,movie.country movie.language
+1327,look up french movies,movie.country movie.language
+1328,show me french movies,movie.country movie.language
+1329,show me only french foreign films,movie.country movie.language
+1330,are there any french films showing,movie.country movie.language
+1331,show me mystery movies,movie.genre
+1332,find movies produced by disney pixar,movie.production_companies
+1333,show me pixar films,movie.production_companies
+1334,find movies produced by lucas films,movie.production_companies
+1335,i would like to find movies starring the singer mario,movie.starring.actor
+1336,look for movies starring the singer mario,movie.starring.actor
+1337,search for movies starring the singer mario,movie.starring.actor
+1338,bring up all diving movies,movie.subjects
+1339,bring up all diving related movies,movie.subjects
+1340,show me all movies about diving,movie.subjects
+1341,show me diving movies,movie.subjects
+1342,sort in all diving movies,movie.subjects
+1343,what is the plot of vulgaria,none
+1344,find movies by mosfilm,movie.production_companies
+1345,search for movies that were produced by mosfilm,movie.production_companies
+1346,what films deal with immigrants in america,movie.subjects
+1347,look for cher movies,movie.starring.actor
+1348,show me cher movies,movie.starring.actor
+1349,eva mendes films,movie.starring.actor
+1350,the god father,none
+1351,i need a list of tom hanks movies,movie.starring.actor
+1352,i want to view only movies with tom hanks,movie.starring.actor
+1353,i want to watch movies with tom hanks,movie.starring.actor
+1354,list tom hanks movies for me,movie.starring.actor
+1355,movies with tom hanks,movie.starring.actor
+1356,show me tom hanks movies,movie.starring.actor
+1357,show tom hanks movies,movie.starring.actor
+1358,tell me what movies tom hanks star in,movie.starring.actor
+1359,tom hanks movies,movie.starring.actor
+1360,watch tom hanks,movie.starring.actor
+1361,what other movies did tom hanks star in,movie.starring.actor
+1362,find movies produced by morgan freeman,movie.produced_by
+1363,producer tom hanks movies,movie.produced_by
+1364,what did tom hanks produces,movie.produced_by
+1365,find movies directed by oliver stone,movie.directed_by
+1366,find oliver stone directed movies,movie.directed_by
+1367,i need movies directed by oliver stone,movie.directed_by
+1368,please provide movies directed by oliver stone,movie.directed_by
+1369,show movies directed by oliver stone,movie.directed_by
+1370,name all of the movies john singleton has directed,movie.directed_by
+1371,what are all of the movies that john singleton has directed,movie.directed_by
+1372,show me movies in greek,movie.language
+1373,are there any movies in greek,movie.language
+1374,can i see all movies starring alan rickman,movie.starring.actor
+1375,show me movies with alan rickman,movie.starring.actor
+1376,show movies charlie sheen,movie.starring.actor
+1377,funny pg thirteen movies,movie.rating movie.genre
+1378,find movies produced by albert ruddy,movie.produced_by
+1379,please look up movies produced by albert ruddy,movie.produced_by
+1380,list all movies produced by alfred ruddy,movie.produced_by
+1381,search for movies produced by albert ruddy,movie.produced_by
+1382,what movies has albert ruddy produced,movie.produced_by
+1383,what movies have albert ruddy produced,movie.produced_by
+1384,which movie was produced by albert rudy,movie.produced_by
+1385,which all movies are produced by yash chopra,movie.produced_by
+1386,the camp out,none
+1387,get all brad pitt produced movies,movie.produced_by
+1388,what movies have brad pitt produced,movie.produced_by
+1389,what movies were produced by brad pitt,movie.produced_by
+1390,find movies starring halle berry,movie.starring.actor
+1391,look for films with halle berry,movie.starring.actor
+1392,search movies in which halle berry acted,movie.starring.actor
+1393,films by mel gibson,movie.directed_by
+1394,search movies made by mel gibson,movie.directed_by
+1395,movies by mel gibson,movie.directed_by
+1396,show me a list of movies directed by mel gibson,movie.directed_by
+1397,is this movie a romance,movie.genre
+1398,home this movie is in english,movie.language
+1399,hope this movie is in english,movie.language
+1400,i hope this movie would be in english,movie.language
+1401,need to provide more info about the movie content,movie.subjects
+1402,was what tom cruise first movie,movie.starring.actor movie.initial_release_date
+1403,is the other guys a comedy,movie.genre
+1404,what movies have robert deniro produced,movie.produced_by
+1405,find me a list of movies directed by james cameron,movie.directed_by
+1406,find movies directed by james cameron,movie.directed_by
+1407,i want to find movies by director james cameron,movie.directed_by
+1408,list all of the movies directed by james cameron,movie.directed_by
+1409,list movies directed by james cameron,movie.directed_by
+1410,watch james cameron movies,movie.directed_by
+1411,can you show me a list of all the movies directed by james cameron,movie.directed_by
+1412,show me a list of all the movies directed by james cameron,movie.directed_by
+1413,show me other movies produced by james cameron,movie.produced_by
+1414,show me the movies that james cameron has produced,movie.produced_by
+1415,find me some warner bros. movies,movie.production_companies
+1416,i want to see movies produced by warner bros,movie.production_companies
+1417,show me a list of all warner bros. films,movie.production_companies
+1418,show me all films produced by warner bros.,movie.production_companies
+1419,show me the movies produced by warner bros,movie.production_companies
+1420,what are the films that warner bros. produced,movie.production_companies
+1421,i need to see some movies from warner brothers,movie.production_companies
+1422,search for warner brothers movies,movie.production_companies
+1423,i would love to see some movies produced by the wb,movie.production_companies
+1424,what movies has jj abrams procuced,movie.produced_by
+1425,show recent films starring bruce willis,movie.starring.actor movie.initial_release_date
+1426,list recent films with actor bruce willis,movie.starring.actor movie.initial_release_date
+1427,find john cusack movies,movie.starring.actor
+1428,get john cusack movies for me,movie.starring.actor
+1429,look for john cusack movies,movie.starring.actor
+1430,look for wes anderson films,movie.directed_by
+1431,i would like to know the names of all the movies which have george clooney in them,movie.starring.actor
+1432,which are some of the movies that have george clooney in them,movie.starring.actor
+1433,show me some films produced by jon landau,movie.produced_by
+1434,about finding nemo,none
+1435,about finding nemo,none
+1436,about finding nemo,none
+1437,all about finding nemo,none
+1438,detail finding nemo,none
+1439,find me more about finding nemo,none
+1440,finding nemo,none
+1441,finding nemo,none
+1442,finding nemo details please,none
+1443,finding nemo info,none
+1444,how can i get more information on finding nemo,none
+1445,i need general information on finding nemo,none
+1446,i would like to see finding nemo page,none
+1447,information on finding nemo,none
+1448,information on finding nemo,none
+1449,look up finding nemo,none
+1450,open page for finding nemo,none
+1451,please find me some info on finding nemo,none
+1452,run a search for finding nemo for me please,none
+1453,show details of the original finding nemo,none
+1454,show finding nemo,none
+1455,show me finding nemo,none
+1456,show me finding nemo page,none
+1457,show me the official site for finding nemo,none
+1458,synopsis for finding nemo,none
+1459,synopsis for finding nemo,none
+1460,where can i find information on finding nemo,none
+1461,about the campaign,none
+1462,i would like to get all the information about the the campaign,none
+1463,run a search for the campaign,none
+1464,the campaign,none
+1465,what is the campaign about,none
+1466,show me apollo thirteen,none
+1467,frank capra movies,movie.directed_by
+1468,find movies produced by castle rock entertainment,movie.production_companies
+1469,what movies does jake gyllenhaal star in,movie.starring.actor
+1470,get a list of movies with kristen stewart,movie.starring.actor
+1471,kristen stewart top movies,movie.starring.actor
+1472,show me all movies kristen stewart has been in,movie.starring.actor
+1473,what movies have kristen stewart done,movie.starring.actor
+1474,which movies has kristen stewart been in,movie.starring.actor
+1475,list movie info kristen stewart,movie.starring.actor
+1476,find movie info kristenn stewart,movie.starring.actor
+1477,movie info kristen stewart,movie.starring.actor
+1478,show lionsgate director movies,movie.production_companies
+1479,display movies made by production lionsgate,movie.production_companies
+1480,i want to see a list of lionsgate movies,movie.production_companies
+1481,lionsgate films,movie.production_companies
+1482,lionsgate list,movie.production_companies
+1483,lionsgate movies,movie.production_companies
+1484,list lionsgate movies,movie.production_companies
+1485,search for lionsgate movies,movie.production_companies
+1486,what movies has lionsgate done,movie.production_companies
+1487,michelle phifer movie list,movie.starring.actor
+1488,find danish movies,movie.country movie.language
+1489,show me the movies acted by chiranjeevi,movie.starring.actor
+1490,what movies has charles vidor directed,movie.directed_by
+1491,what other movies die charles vidor direct,movie.directed_by
+1492,show me all movies by charles vidor,movie.directed_by
+1493,i'd like to see foreign films,movie.country
+1494,search for foreign movies,movie.country
+1495,what are some universal pictures films,movie.production_companies
+1496,show me all the movies made by universal,movie.production_companies
+1497,find historical movies,movie.genre
+1498,display the films by 7 arts,movie.production_companies
+1499,show movies done by 7 arts,movie.production_companies
+1500,can you show me a korean movie,movie.country movie.language
+1501,find korean movies,movie.country movie.language
+1502,korean movie,movie.country movie.language
+1503,show me korean movies,movie.country movie.language
+1504,i want to watch a korean movie,movie.country movie.language
+1505,find all rated pg-13 movies with eddie murphy,movie.rating movie.starring.actor
+1506,twentieth century fox movies since 1990,movie.initial_release_date
+1507,can you show me movies starring denzel washington please,movie.starring.actor
+1508,i want to see movies starring denzel washington,movie.starring.actor
+1509,please show me movies starring denzel washington,movie.starring.actor
+1510,show me movies starring denzel washington,movie.starring.actor
+1511,all the movies by kareena,movie.starring.actor
+1512,find movies of kareena,movie.starring.actor
+1513,kareena movies,movie.starring.actor
+1514,look for kareena movies,movie.starring.actor
+1515,find prison break movies,none
+1516,find movies produced by spike lee,movie.produced_by
+1517,has spike lee produced any films,movie.produced_by
+1518,search for movies produced by spike lee,movie.produced_by
+1519,give me a list of woody allen films,movie.directed_by
+1520,show all movies directed by woody allen,movie.directed_by
+1521,woody movies,movie.directed_by
+1522,please find all movies woody allen has directed,movie.directed_by
+1523,what movies were directed by woody allen,movie.directed_by
+1524,which movies does gabrielle union come out in,movie.starring.actor
+1525,give me anything directed by robert wise,movie.directed_by
+1526,list all robert wise movies,movie.directed_by
+1527,show me a list of movies directed by robert wise,movie.directed_by
+1528,what are all of the movies directed by robert wise,movie.directed_by
+1529,list all of the movies that have been directed by robert wise,movie.directed_by
+1530,what are all movies produced by chris nolan,movie.produced_by
+1531,show me movies in german,movie.language
+1532,display movies in german,movie.language
+1533,do you have in movies in german,movie.language
+1534,i only want to see movies in german,movie.language
+1535,watch movies in german language,movie.language
+1536,find films in german,movie.language
+1537,get german language films,movie.language
+1538,show movies in german,movie.language
+1539,show back to the future movies,none
+1540,show me back to the future movies,none
+1541,movie results for back to the future,none
+1542,show me a list of movies that christian bale has starred in during his career,movie.starring.actor
+1543,what are all of the movies acted in by the actor christian bale,movie.starring.actor
+1544,what are all the movies played in by chrisian bale,movie.starring.actor
+1545,what movies has christian bale acted in,movie.starring.actor
+1546,what movies has christian bale appeared in,movie.starring.actor
+1547,what movies have christian bale played in,movie.starring.actor
+1548,what movies and upcoming movies will christian bale star in,movie.starring.actor
+1549,find me movies by jj abrams,movie.directed_by
+1550,brad pitt movie now,movie.starring.actor
+1551,brad pitt movies,movie.starring.actor
+1552,can you please list all movies with brad pitt,movie.starring.actor
+1553,can you please list all movies with brad pitt,movie.starring.actor
+1554,can you please list the movies brad pitt has acted in,movie.starring.actor
+1555,can you show me a movie with brad pitt,movie.starring.actor
+1556,i want to watch movies with brad pitt,movie.starring.actor
+1557,list all brad pitt movies,movie.starring.actor
+1558,list all brad pitt movies,movie.starring.actor
+1559,list brad pitt movies,movie.starring.actor
+1560,look for movies with brad pitt in them,movie.starring.actor
+1561,movie with brad pitt,movie.starring.actor
+1562,show all brad pitt movies,movie.starring.actor
+1563,show brad pitt movies,movie.starring.actor
+1564,show me brad pitt movies,movie.starring.actor
+1565,show movies with brad pitt,movie.starring.actor
+1566,what movie brad pitt in,movie.starring.actor
+1567,what movies have brad pitt,movie.starring.actor
+1568,sort by all brad pitt movies,movie.starring.actor movie.directed_by
+1569,what movies did tom hanks direct that he also starred in,movie.starring.actor movie.directed_by
+1570,show me a list of all movies directed by tom hanks starting with newest to oldest,movie.directed_by movie.initial_release_date
+1571,angelina jolie latest movie,movie.starring.actor movie.initial_release_date
+1572,movies from scotland,movie.country
+1573,give me a list of r rated movies,movie.rating
+1574,i want to look for movies with an r rating,movie.rating
+1575,i want to see all movies with a r rating,movie.rating
+1576,please look up r rated movies,movie.rating
+1577,rate r movies for adult enterainment,movie.rating
+1578,show me all r -rated movies,movie.rating
+1579,show me movies that are rated r,movie.rating
+1580,find movies with r ratings,movie.rating
+1581,find rated r movies,movie.rating
+1582,i want to find movies rated r,movie.rating
+1583,i want to view movies that are rated r,movie.rating
+1584,look up r rated movies,movie.rating
+1585,movies with r rating,movie.rating
+1586,r - rated,movie.rating
+1587,r rated movies,movie.rating
+1588,show me movies with a rating of r,movie.rating
+1589,what are a list of movies with an r rating,movie.rating
+1590,are there any movies that are rated r,movie.rating
+1591,compile a list of movies with a r rating,movie.rating
+1592,i want an r rated movie,movie.rating
+1593,list all rated r movies,movie.rating
+1594,r rated movies,movie.rating
+1595,search for r rated movies,movie.rating
+1596,show me a list of movies with r rating,movie.rating
+1597,show me all rated r movies,movie.rating
+1598,show me r movies,movie.rating
+1599,show me r rated movies,movie.rating
+1600,show only rated r movies,movie.rating
+1601,what are movies that have a r rating,movie.rating
+1602,which movies are rated r,movie.rating
+1603,what other videos does the country norway have,movie.country
+1604,a showing of movies that are in spanish,movie.language
+1605,can you find movies in spanish,movie.language
+1606,search for movies in spanish,movie.language
+1607,spanish language movies,movie.language
+1608,i am looking for movies in spanish,movie.language
+1609,i would like to watch movies that are spoken in spanish,movie.language
+1610,list of movies in spanish,movie.language
+1611,show me movies in spanish,movie.language
+1612,can you show me a list of movies in spanish,movie.language
+1613,find movies in spanish,movie.language
+1614,find movies in spanish,movie.language
+1615,give me movies in spanish,movie.language
+1616,i would like a list of movies that have been made in spanish,movie.language
+1617,movies in spanish,movie.language
+1618,please make a list of movies that have been made in spanish,movie.language
+1619,send me movies that are in spanish,movie.language
+1620,show me movies in spanish,movie.language
+1621,show me movies that are in spanish,movie.language
+1622,give me swedish films,movie.country movie.language
+1623,show me mexican films,movie.country
+1624,show me movies made in south africa,movie.country
+1625,list some sci fi movies,movie.genre
+1626,show me scifi fantasy movies,movie.genre
+1627,find scifi films,movie.genre
+1628,list scifi,movie.genre
+1629,what movies did matt damon appear in,movie.starring.actor
+1630,sound of music robert wise,movie.directed_by
+1631,can i watch a terry george film tonight,movie.directed_by
+1632,get a list of animated films,movie.genre
+1633,show me movies that are about scary zombies,movie.subjects
+1634,is there a movie about the zombie apocolypse,movie.subjects
+1635,i want to see a list about zombie horror films,movie.genre movie.subjects
+1636,find some zombie movies,movie.subjects
+1637,find zombie movies,movie.subjects
+1638,get list of zombie movies,movie.subjects
+1639,give me a list of zombie movies,movie.subjects
+1640,i want to find zombie movies,movie.subjects
+1641,i want to see zombie movies,movie.subjects
+1642,see zombie movies,movie.subjects
+1643,show me zombie movies,movie.subjects
+1644,show me zombie movies,movie.subjects
+1645,show zombie movies,movie.subjects
+1646,zombie movie favorites,movie.subjects
+1647,find me a movie with zombies,movie.subjects
+1648,show me movies about zombies,movie.subjects
+1649,show me movies about zombies,movie.subjects
+1650,show me movies about zombies,movie.subjects
+1651,show movies of zombies,movie.subjects
+1652,which movies are based on zombies,movie.subjects
+1653,which movies have zombies in them,movie.subjects
+1654,movies about zombies,movie.subjects
+1655,display movies of zombies,movie.subjects
+1656,get movies about zombies,movie.subjects
+1657,movies about zombies,movie.subjects
+1658,i want scary zombie movies,movie.genre movie.subjects
+1659,i want to see zombie movies that are scary,movie.genre movie.subjects
+1660,find movies directed by niel abramson,movie.directed_by
+1661,zombies,movie.subjects
+1662,what movies are directed by ridley scott,movie.directed_by
+1663,i want to see movies directed by ridley scott,movie.directed_by
+1664,german movie info,movie.country movie.language
+1665,i want to watch a german movie,movie.country movie.language
+1666,info german movie,movie.country movie.language
+1667,show german movies,movie.country movie.language
+1668,find action movies,movie.genre
+1669,looking for an action movie,movie.genre
+1670,what is the ratings of action movies,movie.rating movie.genre
+1671,movies patrick swayze played in,movie.starring.actor
+1672,show me a movie that starred patrick swayze,movie.starring.actor
+1673,show me short films,movie.genre
+1674,movies by george lucas,movie.directed_by
+1675,list of all dutch movies,movie.country movie.language
+1676,please give me a dutch movie listing,movie.country movie.language
+1677,dutch movie listing,movie.country movie.language
+1678,show me childrens movies,movie.genre
+1679,movies tom cruise produced,movie.produced_by
+1680,what movies did harry weinstein produce,movie.produced_by
+1681,i want to look for movies produced by morgan freeman,movie.produced_by
+1682,i would like to find movies produced by morgan freeman,movie.produced_by
+1683,look for movies produced by morgan freeman,movie.produced_by
+1684,search for movies produced by morgan freeman,movie.produced_by
+1685,what movies are in bengali,movie.language
+1686,meryl streep movies,movie.starring.actor
+1687,movies frances ford copolla,movie.directed_by
+1688,what movie did victor fleming direct,movie.directed_by
+1689,movies from russia,movie.country
+1690,search for films produced in russia,movie.country
+1691,find movies produced in russia,movie.country
+1692,find all details about star wars-a new hope movie,none
+1693,show all details about star wars-a new hope movie,none
+1694,get me information about the movie star wars four,none
+1695,can you show me details about the movie star wars:episode four - a new hope,none
+1696,give me detailed information about the movie star wars:episode four -a new hope,none
+1697,i would like to get some information about the movie star wars:episode four -a new hope,none
+1698,list star wars movie a new hope,none
+1699,find info about star wars episode four,none
+1700,get me info on star wars episode four,none
+1701,get me star wars episode four details,none
+1702,i want to see info about star wars four,none
+1703,run a search for star wars four,none
+1704,show me star wars four,none
+1705,show me star wars four page,none
+1706,star wars four,none
+1707,take me to star wars four page,none
+1708,where can i watch star wars four,none
+1709,tell about star wars iv,none
+1710,what is full name of star wars iv,none
+1711,darth vader,movie.starring.character
+1712,han solo,movie.starring.character
+1713,i only want movies by sidney lumit,movie.directed_by
+1714,movies with sally field,movie.starring.actor
+1715,can you please open page about in july movie,none
+1716,display details of in july movie,none
+1717,exhibit details of in july movie,none
+1718,in july movie page,none
+1719,about movie in july,none
+1720,find me the film in july,none
+1721,show information for the movie title in july with moritz bleibtreu,movie.starring.actor
+1722,give me details about the movie in july,none
+1723,i want information about the movie in july,none
+1724,i would like to get detailed information about the movie in july,none
+1725,search the movie in july,none
+1726,show data for the movie in july,none
+1727,show me detailed information about the movie in july,none
+1728,show me more details for the movie in july,none
+1729,check movie in july information,none
+1730,display information for the movie in july,none
+1731,i want to see anne hathaway latest movie,movie.starring.actor movie.initial_release_date
+1732,show me anne hathaway latest movie,movie.starring.actor movie.initial_release_date
+1733,show me hathaway recent movies,movie.starring.actor movie.initial_release_date
+1734,what movies has jack black been in,movie.starring.actor
+1735,angelina jolie movies,movie.starring.actor
+1736,in which movies has angelina jolie starred,movie.starring.actor
+1737,list of movies starring angelina jolie,movie.starring.actor
+1738,movies with angelina jolie,movie.starring.actor
+1739,show angelina jolie movies,movie.starring.actor
+1740,show me all movies for angelina jolie,movie.starring.actor
+1741,show movies with angelina jolie,movie.starring.actor
+1742,what movies has angelina jolie been in,movie.starring.actor
+1743,which movies has angelina jolie been in,movie.starring.actor
+1744,list movies starring angelina jolie,movie.starring.actor
+1745,list movies with angelina jolie in them,movie.starring.actor
+1746,funny kids movies,movie.rating movie.genre
+1747,movies about basketball,movie.subjects
+1748,can you locate movies produced by clint eastwood,movie.produced_by
+1749,can you show movies produced by clint eastwood,movie.produced_by
+1750,find all movies produced by clint eastwood,movie.produced_by
+1751,i am looking for movies produced by clint eastwood,movie.produced_by
+1752,i need a list of movies produced by clint eastwood,movie.produced_by
+1753,please find movies produced by clint eastwood,movie.produced_by
+1754,will you provide a list of movies produced by clint eastwood,movie.produced_by
+1755,i want to see more movies with katie holmes,movie.starring.actor
+1756,find any movies about horses,movie.subjects
+1757,what are some current movies with horses as the main topic of the movie,movie.subjects
+1758,johnny depp movies,movie.starring.actor
+1759,bring up black swan production,none
+1760,all the movies of karan johar,movie.directed_by
+1761,karan johar movies,movie.directed_by
+1762,find movies of karan johar,movie.directed_by
+1763,movies of karan johar,movie.directed_by
+1764,find director movies,movie.directed_by
+1765,find a list of directors and their movies,movie.directed_by
+1766,movies and who directed them,movie.directed_by
+1767,bring up all director movies,movie.directed_by
+1768,list director movies,movie.directed_by
+1769,show movies directed by,movie.directed_by
+1770,i want to look up information about the movie hotel transylvania,none
+1771,will ferrell been in,movie.starring.actor
+1772,what has will ferrell done,movie.starring.actor
+1773,find movies about gambling,movie.subjects
+1774,find movies about ice skating,movie.subjects
+1775,generate a list of movies about ice skating,movie.subjects
+1776,list ice skating movies please,movie.subjects
+1777,are there any movies with ice skating,movie.subjects
+1778,please show me movies about ice skating,movie.subjects
+1779,search for movies about ice skating,movie.subjects
+1780,are there any movies with skating on ice,movie.subjects
+1781,find dreamworks movies for kids,movie.rating movie.production_companies
+1782,where can i see a list of movies produced in great britain,movie.country
+1783,taye diggs films,movie.starring.actor
+1784,about house at the end of the street,none
+1785,find me info on house at the end of the street,none
+1786,house at the end of the street movie info,none
+1787,i would like to see house at the end of the street information,none
+1788,overview of house at the end of the street,none
+1789,show me house at the end of the street,none
+1790,show me the page about house at the end of the street,none
+1791,get me info about the movie house at the end of the street,none
+1792,show information for the movie house at the end of the street,none
+1793,show me detailed information about the movie house at the end of the street,none
+1794,show me more details for the movie house at the end of the street,none
+1795,can you give me detailed information about the movie house at the end of the street,none
+1796,dispaly info for movie house at the end of the street,none
+1797,display overview of the movie house at the end of the street,none
+1798,i need information about the cast reviews story etc in detail about the movie house at the end of the street,none
+1799,send me movies that are in chinese,movie.language
+1800,i want chinese language movies,movie.language
+1801,show me movies in chinese,movie.language
+1802,find all chinese language movies,movie.language
+1803,look up movies in chinese,movie.language
+1804,movies in chinese,movie.language
+1805,show me movies produced by julian fellows,movie.produced_by
+1806,julian fellows productions,movie.produced_by
+1807,can you please search movies of tom cruise,movie.starring.actor
+1808,find movies with tom cruise,movie.starring.actor
+1809,find movies with tom cruise in them,movie.starring.actor
+1810,in what movies tom cruise is,movie.starring.actor
+1811,movies starring tom cruise,movie.starring.actor
+1812,show me all movies tom cruise has been in,movie.starring.actor
+1813,tom cruise movies,movie.starring.actor
+1814,tom cruise movies,movie.starring.actor
+1815,what movies has tom cruise been in,movie.starring.actor
+1816,what movies has tom cruise starred in,movie.starring.actor
+1817,find movies produced by george lucas,movie.produced_by
+1818,find movies produced by george lucus,movie.produced_by
+1819,give me a list of movies produced by george lucas,movie.produced_by
+1820,give me a list of movies that george lucas produced,movie.produced_by
+1821,locate all movies produced by george lucas,movie.produced_by
+1822,list of dax shepard movies,movie.starring.actor
+1823,yash chopra movies,movie.directed_by
+1824,find movies of yash chopra,movie.directed_by
+1825,trouble with the curve was based on what,none
+1826,what was the last film robert redford produced,movie.initial_release_date movie.produced_by
+1827,movies about immigration,movie.subjects
+1828,dawn of the dead movie information,none
+1829,search the campaign movie,none
+1830,show me information related to the film the campaign,none
+1831,will you please show me info on the movie the campaign,none
+1832,the campaign movie page,none
+1833,i want to see info on the movie the campaign,none
+1834,look up movie the campaign,none
+1835,please show me info on the movie the campaign,none
+1836,show me information for the movie the campaign,none
+1837,tell me about the movie the campaign in detail,none
+1838,can you show me details about the movie the campaign,none
+1839,find movies about love,movie.subjects
+1840,movies about nature,movie.subjects
+1841,show me the comedy pitch perfect,movie.genre
+1842,show me the movies produced by reliance,movie.production_companies
+1843,which movies are family friendly,movie.rating
+1844,can you get me a pg movie list,movie.rating
+1845,find a pg rated movie,movie.rating
+1846,find rated pg movies,movie.rating
+1847,give me some good pg moives,movie.rating
+1848,i am looking for movies that are rated pg for family movie night,movie.rating
+1849,i need to see a list of pg movies,movie.rating
+1850,i need to see all pg movies,movie.rating
+1851,movies rated pg,movie.rating
+1852,pg movies list please,movie.rating
+1853,please show a list of recent movies rated pg,movie.rating
+1854,show me movies rated pg,movie.rating
+1855,bring up all pg movies,movie.rating
+1856,find me pg movies,movie.rating
+1857,find movies rated pg,movie.rating
+1858,find movies that are pg,movie.rating
+1859,i need movies with a pg rating,movie.rating
+1860,i want to search for pg rated movies,movie.rating
+1861,list movies rated pg,movie.rating
+1862,movies with pg rating,movie.rating
+1863,movies with pg rating,movie.rating
+1864,pg movies,movie.rating
+1865,show me pg rated movies,movie.rating
+1866,show me the movies rating pg,movie.rating
+1867,find movies with pg ratings only,movie.rating
+1868,i want a list of pg rated movies,movie.rating
+1869,i want to see movies that are rated pg,movie.rating
+1870,only show movies rated pg,movie.rating
+1871,please find pg rated movies,movie.rating
+1872,search for movies with a pg rating,movie.rating
+1873,search for movies with a pg rating,movie.rating
+1874,show me all pg movies,movie.rating
+1875,show me movies with pg rating,movie.rating
+1876,show me movies with pg ratings,movie.rating
+1877,show me pg movies,movie.rating
+1878,get hungarian films,movie.country movie.language
+1879,i want to watch a comedy made in hungary,movie.country movie.genre
+1880,show me hungarian comedies,movie.country movie.language movie.genre
+1881,what the latest on brad pitt,movie.starring.actor movie.initial_release_date
+1882,i'm looking for a jason cortlund movie,movie.directed_by
+1883,show me the movie now forager,none
+1884,what old movies are made by warner brothers,movie.production_companies movie.initial_release_date
+1885,i want to look up alfred hitchcock movies,movie.directed_by
+1886,find me movies made by alfred hitchcock,movie.directed_by
+1887,i want to search for alfred hitchcock movies,movie.directed_by
+1888,i would like to watch an alfred hitchcock movie,movie.directed_by
+1889,show me some alfred hitchcock movies,movie.directed_by
+1890,look up alfred hitchcock movies,movie.directed_by
+1891,movies alfred hitchcock,movie.directed_by
+1892,movies by alfred hitchcock,movie.directed_by
+1893,movies by alfred hitchcock,movie.directed_by
+1894,what movies has alfred hitchcock directed,movie.directed_by
+1895,hitchcock movie list,movie.directed_by
+1896,list hitchcock movies,movie.directed_by
+1897,movie list hitchcock,movie.directed_by
+1898,show me hitchcock movies,movie.directed_by
+1899,hitchcock movie info,movie.directed_by
+1900,hitchcock movies,movie.directed_by
+1901,what movies did hitchcock direct,movie.directed_by
+1902,show me the last five films for lionsgate,movie.production_companies movie.initial_release_date
+1903,show me recent movies from lionsgate,movie.production_companies movie.initial_release_date
+1904,what new movies does lionsgate have out,movie.production_companies movie.initial_release_date
+1905,show me the movie vulgaria,none
+1906,what recently released movies are rated r,movie.rating movie.initial_release_date
+1907,get me a list of current r-rated movies,movie.rating movie.initial_release_date
+1908,show a list of recent releases that are rated pg,movie.rating movie.initial_release_date
+1909,what are some recent released pg movies,movie.rating movie.initial_release_date
+1910,show recent movies rated pg,movie.rating movie.initial_release_date
+1911,will you show me a list of recent movies rated pg,movie.rating movie.initial_release_date
+1912,which current movies are rated pg,movie.rating movie.initial_release_date
+1913,do you have anything by george cukor,movie.directed_by
+1914,what was the first movie steven spielberg directed,movie.directed_by movie.initial_release_date
+1915,did rob reiner direct any movies,movie.directed_by
+1916,what was the highest making movie,movie.gross_revenue gr.amount
+1917,show me high grossing movies,movie.gross_revenue gr.amount
+1918,what movies made the most money,movie.gross_revenue gr.amount
+1919,what are the top grossing movies,movie.gross_revenue gr.amount
+1920,find the new will ferrell movie,movie.starring.actor movie.initial_release_date
+1921,what are the three latest films with will ferrell,movie.starring.actor movie.initial_release_date
+1922,what are recent films by will ferrell,movie.starring.actor movie.initial_release_date
+1923,any new movies with eddie murphy,movie.starring.actor movie.initial_release_date
+1924,i would like to look for movies about god,movie.subjects
+1925,look up movies about god,movie.subjects
+1926,i want to look for movies about god,movie.subjects
+1927,please search for movies about god,movie.subjects
+1928,watch ron howard latest movie,movie.directed_by movie.initial_release_date
+1929,find ron howard new movie,movie.directed_by movie.initial_release_date
+1930,i need a list of movies produced by ray stark,movie.produced_by
+1931,show me all movies produced by ray stark,movie.produced_by
+1932,what movies has ray stark produced,movie.produced_by
+1933,what movie has albert brooks done lately,movie.starring.actor movie.initial_release_date
+1934,recent movies by steven spielberg,movie.directed_by movie.initial_release_date
+1935,find sandra bullock latest movie,movie.starring.actor movie.initial_release_date
+1936,i am looking for movies directed by tom hanks,movie.directed_by
+1937,find movies directed by tom hanks,movie.directed_by
+1938,show me movies that tom hanks directed,movie.directed_by
+1939,movies by tom hanks,movie.directed_by
+1940,show me a list of all movies that were directed by tom hanks,movie.directed_by
+1941,what movie made the least money,movie.gross_revenue gr.amount
+1942,what has tom cruise acted in lately,movie.starring.actor movie.initial_release_date
+1943,what new movies are playing with rating of pg thirteen,movie.rating movie.initial_release_date
+1944,show me a list of movies that are new and rated pg-13,movie.rating movie.initial_release_date
+1945,what pg-13 movies are currently showing,movie.rating movie.initial_release_date
+1946,what other movies has will smith directed,movie.directed_by
+1947,show me the latest movies in kannada,movie.language
+1948,have any new movies by twentieth century fox,movie.production_companies movie.initial_release_date
+1949,current movie suggestions,movie.initial_release_date
+1950,show me new releases,movie.initial_release_date
+1951,see ed harris last movie,movie.starring.actor movie.initial_release_date
+1952,give me a list of recent horror films,movie.genre movie.initial_release_date
+1953,show me movies in swedish,movie.language
+1954,what was woody allen last movie,movie.directed_by movie.initial_release_date
+1955,about in july,none
+1956,i want to go to the homepage for in july,none
+1957,i want to view the page on in july,none
+1958,i would like to see the main page of in july,none
+1959,in july information,none
+1960,summary of in july,none
+1961,synopsis for in july,none
+1962,was life is beautiful made in italy,movie.country
+1963,current movies rated g,movie.rating movie.initial_release_date
+1964,find all new releases that are rated g,movie.rating movie.initial_release_date
+1965,can i have a list of movie production companies,none
+1966,who is bruce willis,none
+1967,producer,none
+1968,i need a movie producer list,none
+1969,can i have a list of producers,none
+1970,find me info on emma watson,none
+1971,show me more information about will smith,none
+1972,will smith bio,none
+1973,i need a list of actors,none
+1974,search for actors,none
+1975,find actors,none
+1976,search movie actors,none
+1977,movie actors,none
+1978,display actors in movies,none
+1979,show actors in movies,none
+1980,display biography of actor will ferrell,none
+1981,who is the actor will ferrell,none
+1982,director,none
+1983,find a director,none
+1984,find directors,none
+1985,search directors,none
+1986,search directors,none
+1987,movie directors,none
+1988,give me a list of directors,none
+1989,where can i find a director,none
+1990,see bill paxton,none
+1991,give me information about elizabeth mcgovern,none
+1992,show me information on darla anderson,none
+1993,can you give me more information about charles,none
+1994,can you tell me more about the producer ray stark,none
+1995,give me more details about the producer ray stark,none
+1996,i need to know more about the producer ray stark,none
+1997,show me more information about the producer ray stark,none
+1998,show me information on shelly long,none
+1999,i want to know about clint eastwood,none
+2000,look for information about charles vidor,none
+2001,search for information about charles vidor,none
+2002,want to see charles vidor,none
+2003,who is childs vidor,none
+2004,find me more information on scorscese,none
+2005,find the director andrew stanton,none
+2006,who is andrew stanton,none
+2007,see the olsen twins,none
+2008,can you find more information on albert ruddy,none
+2009,search for information about tom cruise,none
+2010,find information about tom cruise,none
+2011,look for information about tom cruise,none
+2012,look up information about tom cruise,none
+2013,all about will farrell please,none
+2014,bio on will ferrell,none
+2015,biography for will ferrell,none
+2016,bring me to will ferrell informaion,none
+2017,bring up a bio on will ferrell,none
+2018,can you show me information on will ferrell please,none
+2019,display all information on will ferrell,none
+2020,get me bio info for will ferrell,none
+2021,goto will ferrell biography,none
+2022,i want information about will ferrell,none
+2023,i want to see will ferrell details,none
+2024,information about will ferrell,none
+2025,look for will ferrell,none
+2026,open a page about will ferrell,none
+2027,please show me information on will ferrell,none
+2028,search for will ferrell,none
+2029,show me a bio of will ferrell,none
+2030,show me will ferrell information,none
+2031,show will ferrell information,none
+2032,who is will ferrell,none
+2033,who is will ferrell,none
+2034,who is will ferrell,none
+2035,will ferrell,none
+2036,will ferrell history,none
+2037,will ferrell tidbits,none
+2038,will ferrell biography,none
+2039,please run a search on will ferrell and display all info returned,none
+2040,what is terry georges background,none
+2041,exhibit all relevant information about the director steven spielberg,none
+2042,show me the bio for the director steven spielberg,none
+2043,who is director steven spielberg,none
+2044,show all relevant information about the director steven spielberg,none
+2045,show biography for director steven spielberg,none
+2046,find information about kristen stewart,none
+2047,how do i find out information about kristen stewart,none
+2048,learn more about kristen stewart,none
+2049,who is kristen stewart,none
+2050,information on julia roberts,none
+2051,get me information about spielberg,none
+2052,i want to know about spielberg,none
+2053,i want to see spielberg page,none
+2054,pull up spielberg,none
+2055,show me spielberg info,none
+2056,show me spielberg main page,none
+2057,show me the profile of spielberg,none
+2058,show my spielberg info,none
+2059,find me stats about steven spielberg,none
+2060,i need details steven spielberg now,none
+2061,search for steven spielberg,none
+2062,show me the information for steven spielberg,none
+2063,stephen spielberg biography,none
+2064,steven spielberg,none
+2065,steven spielberg bio,none
+2066,steven spielberg profile page,none
+2067,what about steven spielberg,none
+2068,who is steven spielberg,none
+2069,find info on tom hanks,none
+2070,show me information on tom hanks,none
+2071,show tom hanks,none
+2072,information for sally field,none
+2073,sergio leone,none
+2074,i need information on sean connery,none
+2075,tell me about michelle pfiefer,none
+2076,i want to learn about charlie sheen,none
+2077,find information about robert wise,none
+2078,robert wise life,none
+2079,search for information about robert wise,none
+2080,director profiles: hitchcock,none
+2081,warner brothers bio,none
+2082,alfred hitchcock,none
+2083,who is hitchcock,none
+2084,information for clark gable,none
+2085,i want information about angelina jolie,none
+2086,i want more information on richard lester,none
+2087,information for vivian lee,none
+2088,name the producer of the godfather,movie.produced_by
+2089,what is the name of the company that produced sparkle,movie.produced_by
+2090,what is the name of the company that produced the movie ants,movie.production_companies
+2091,show me the name of the producer of the movie avatar,movie.produced_by
+2092,can you show me the name of the producer for cabin in the woods,movie.produced_by
+2093,what is the name of the company that produced the movie avatar,movie.production_companies
+2094,please provide the name of the company that produced sparkle,movie.production_companies
+2095,what is the name of the company that produced the movie inception,movie.production_companies
+2096,hitch list producer,movie.produced_by
+2097,i want info on how produced hitch,movie.produced_by
+2098,who are the producers for the movie hitch,movie.produced_by
+2099,who is the producer for hitch,movie.produced_by
+2100,who produced hitch,movie.produced_by
+2101,who produced hitch,movie.produced_by
+2102,who produced hitch,movie.produced_by
+2103,who was the producer for the movie hitch,movie.produced_by
+2104,info hitch producer,movie.produced_by
+2105,what production company was responsible for the film the devil wears prada,movie.production_companies
+2106,what company produced secretariat,movie.production_companies
+2107,what company produced the movie field of dreams,movie.production_companies
+2108,what company produced jurassic park,movie.production_companies
+2109,company that produced iron man,movie.production_companies
+2110,what company produced cabin in the woods,movie.production_companies
+2111,production company for spiderman,movie.production_companies
+2112,who produced cabin in the woods,movie.produced_by
+2113,what was the production company for black swan,movie.production_companies
+2114,get me the think like a man movie producer,movie.produced_by
+2115,who produced cars,movie.produced_by
+2116,who produced cars,movie.produced_by
+2117,who produced the movie cars,movie.produced_by
+2118,who produced steel magnolias,movie.produced_by
+2119,who produces steel magnolias,movie.produced_by
+2120,name of producer for ghost busters,movie.produced_by
+2121,who produced et,movie.produced_by
+2122,who was the producer for elizabeth,movie.produced_by
+2123,please show me who produces madagascar,movie.produced_by
+2124,look for the producer of heroine,movie.produced_by
+2125,producer of heroine,movie.produced_by
+2126,can you find the producer of heroine,movie.produced_by
+2127,can you tell me who produced the movie avatar,movie.produced_by
+2128,i need to know the movie avatar producer name,movie.produced_by
+2129,i need to know who produced the movie avatar,movie.produced_by
+2130,please tell me who produce the avatar,movie.produced_by
+2131,producer of avatar,movie.produced_by
+2132,who is the producer of avatar,movie.produced_by
+2133,who produce the avatar,movie.produced_by
+2134,who produced avatar,movie.produced_by
+2135,who produced avatar,movie.produced_by
+2136,who produced avatar,movie.produced_by
+2137,who produced avatar,movie.produced_by
+2138,who produced avatar with james cameron,movie.produced_by
+2139,who is listed as producer of grease,movie.produced_by
+2140,who is the producer of grease,movie.produced_by
+2141,browse lionsgate information,none
+2142,display production company lionsgate,none
+2143,get info on lionsgate,none
+2144,goto lionsgate,none
+2145,i would like more information about lionsgate,none
+2146,look for information about lionsgate,none
+2147,see lionsgate info,none
+2148,show lionsgate,none
+2149,company that produced the avengers,movie.production_companies
+2150,show who produced black swan,movie.produced_by
+2151,who produced black swan,movie.produced_by
+2152,who produced spaceballs,movie.produced_by
+2153,find the producer of the godfather,movie.produced_by
+2154,show me the producer of the godfather,movie.produced_by
+2155,who is the producer of the godfather,movie.produced_by
+2156,who produced the godfather,movie.produced_by
+2157,who produced the godfather,movie.produced_by
+2158,who produced the godfather,movie.produced_by
+2159,who produced the godfather movies,movie.produced_by
+2160,producer for slumdog millionaire,movie.produced_by
+2161,company that produced thor,movie.production_companies
+2162,what company produced days of thunder,movie.production_companies
+2163,i want to look for information about paramount studios,none
+2164,look for information about paramount studios,none
+2165,what is the history behind paramount,none
+2166,look at paramount,none
+2167,who produced hotel rwanda,movie.produced_by
+2168,who produced the movie hotel rwanda,movie.produced_by
+2169,who produced titanic,movie.produced_by
+2170,company that produced twilight,movie.production_companies
+2171,producer for ms. congeniality,movie.produced_by
+2172,who produced top gun,movie.produced_by
+2173,what production company produced the movie avatar,movie.production_companies
+2174,what studio made the dark knight,movie.production_companies
+2175,what company produced the hangover,movie.production_companies
+2176,who produced the devil wears prada,movie.produced_by
+2177,i d like to know who the producer of the terminator is,movie.produced_by
+2178,i wonder who produced the terminator,movie.produced_by
+2179,who is the producer of the terminator,movie.produced_by
+2180,find producer of the great debaters,movie.produced_by
+2181,who produced the great debaters,movie.produced_by
+2182,who produced the movie twilight,movie.produced_by
+2183,production company for the hulk,movie.production_companies
+2184,can i see who produced possesion,movie.produced_by
+2185,who produced possesion,movie.produced_by
+2186,find the producer of moby dick,movie.produced_by
+2187,producer for the passion of the christ,movie.produced_by
+2188,who produced what to expect when you're expecting,movie.produced_by
+2189,what company is the producer of inception,movie.produced_by
+2190,who produced the movie the dark knight,movie.produced_by
+2191,who produced lion king,movie.produced_by
+2192,i would like to find the producers of the lion king,movie.produced_by
+2193,what company produced sparkle,movie.production_companies
+2194,which company produced the terminator,movie.production_companies
+2195,who produced casino royale,movie.produced_by
+2196,search mgm studios,none
+2197,who was the producer for the amazing spiderman,movie.produced_by
+2198,in the movie ants who is the producer,movie.produced_by
+2199,the movie ants was produced by what person,movie.produced_by
+2200,the producers for the movie ants,movie.produced_by
+2201,who is the producer for the movie ants,movie.produced_by
+2202,find the producer of gone with the wind,movie.produced_by
+2203,producer for gone with the wind,movie.produced_by
+2204,who produced the movie gone with the wind,movie.produced_by
+2205,who produced the movie,movie.produced_by
+2206,who produced the movie,movie.produced_by
+2207,who produced this movie,movie.produced_by
+2208,search for the producer of mirror,movie.produced_by
+2209,who was mirror s producer,movie.produced_by
+2210,person produced the blind side,movie.produced_by
+2211,who was the producer for coming to america,movie.produced_by
+2212,search for the producer of step up,movie.produced_by
+2213,goto warner brothers,none
+2214,pixar film studio,none
+2215,look up the producer of freedom writers,movie.produced_by
+2216,who produced godfather,movie.produced_by
+2217,who produced the godfather,movie.produced_by
+2218,show producers who work for miramax,movie.production_companies movie.produced_by
+2219,what type of audience can watch cars,movie.rating
+2220,is toy story for kids,movie.rating
+2221,rating of movie,movie.rating
+2222,what is movie rated,movie.rating
+2223,show me the rating for the movie,movie.rating
+2224,what is the mpaa rating for movie,movie.rating
+2225,what is the reccommended audience for movie,movie.rating
+2226,can i see this film rating,movie.rating
+2227,what is the parental rating on this movie,movie.rating
+2228,what is the rating of movie,movie.rating
+2229,movie rating,movie.rating
+2230,what rating did the dark knight rises receive,movie.rating
+2231,what is the rating for dark knight,movie.rating
+2232,rating for dark knight,movie.rating
+2233,can you tell me whats the rating of movie avatar,movie.rating
+2234,i need to know the rating of the movie avatar,movie.rating
+2235,show me the rating of the movie avatar,movie.rating
+2236,what is the rating for the movie ants,movie.rating
+2237,is hotel transylavania good for adults,movie.rating
+2238,show me the rating for the movie the lord of rings,movie.rating
+2239,what age is marley and me appropriate,movie.rating
+2240,how old should a person be to watch marley and me,movie.rating
+2241,what age is appropriate to watch marley and me,movie.rating
+2242,what rating is superman,movie.rating
+2243,rating for transylvania,movie.rating
+2244,tell me the rating of the movie grease,movie.rating
+2245,what is grease rated,movie.rating
+2246,tell me the rating of the film grease,movie.rating
+2247,what is the appropriate age for clueless,movie.rating
+2248,what is the rating of dirty dancing,movie.rating
+2249,what is the rating for dirty dancing,movie.rating
+2250,what rating is freedom writers,movie.rating
+2251,what is the rating for house at the end of the street,movie.rating
+2252,what ratings does the house at the end of the street hold,movie.rating
+2253,is it appropriate to take my 16 year old to see land of the lost,movie.rating
+2254,is the movie life is beautiful ok for my six year old to watch,movie.rating
+2255,find the rating of the movie step up,movie.rating
+2256,rating for the green hornet,movie.rating
+2257,show me the film rating for avengers,movie.rating
+2258,show rating for the film avengers,movie.rating
+2259,show rating of movie avengers,movie.rating
+2260,what is the rating for the avenger movie,movie.rating
+2261,rating for the avengers,movie.rating
+2262,what is jurassic park rated,movie.rating
+2263,list movie ratings for us movie looper,movie.country movie.rating
+2264,show movie ratings for us movie looper,movie.country movie.rating
+2265,what audience will watch black swan,movie.rating
+2266,how is a good man in africa rating,movie.rating
+2267,can i take my 13 year old to see american pie,movie.rating
+2268,how old for black swan,movie.rating
+2269,what age is black swan appropriate for,movie.rating
+2270,can you tell me the rating for cabin in the woods,movie.rating
+2271,i would like to know the rating for cabin in the woods,movie.rating
+2272,kindly show me the rating for cabin in the woods,movie.rating
+2273,show me the rating for cabin in the woods,movie.rating
+2274,rating for resident evil,movie.rating
+2275,show me the rating for the movie romeo must die,movie.rating
+2276,what the rating for satyricon,movie.rating
+2277,what restrictions does the campaign film have for viewers,movie.rating
+2278,what is the rating for the movie the campaign,movie.rating
+2279,show me the rating for the movie the expendables 2,movie.rating
+2280,show me the rating for the movie the mechanic,movie.rating
+2281,can you find out what the movie dredd is rated,movie.rating
+2282,look up the rating for the movie dredd,movie.rating
+2283,search for the rating of the movie dredd,movie.rating
+2284,what is the movie rating for die hard,movie.rating
+2285,twilight revenue,movie.gross_revenue
+2286,what was the gross profit for twilight,movie.gross_revenue
+2287,how much did et gross worldwide,movie.gross_revenue
+2288,what did et gross,movie.gross_revenue
+2289,what were et revenues,movie.gross_revenue
+2290,can you tell me about the revenue generated by the movie avatar,movie.gross_revenue
+2291,how much money did avatar make,movie.gross_revenue
+2292,how much revenue did the movie avatar generate,movie.gross_revenue
+2293,tell me about the revenue generated by the movie avatar,movie.gross_revenue
+2294,how much money did pretty woman take in,movie.gross_revenue
+2295,revenue for pretty woman,movie.gross_revenue
+2296,gross earnings for avengers movie,movie.gross_revenue
+2297,ticket sales for the movie avengers,movie.gross_revenue
+2298,what was the gross earnings for the avengers movie,movie.gross_revenue
+2299,how much revenue did the avengers take it,movie.gross_revenue
+2300,what were the gross receipts for the avengers,movie.gross_revenue
+2301,can you give me the revenue of the movie titanic,movie.gross_revenue
+2302,how much revenue did titanic make,movie.gross_revenue
+2303,profits made by titanic,movie.gross_revenue
+2304,revenue for titanic,movie.gross_revenue
+2305,revenue for titanic,movie.gross_revenue
+2306,total titanic revenues,movie.gross_revenue
+2307,what was the revenue for toy story 3,movie.gross_revenue
+2308,dark knight revenue,movie.gross_revenue
+2309,how much did the dark night generate,movie.gross_revenue
+2310,can i see the lion king revenue,movie.gross_revenue
+2311,can i see what the lion king revenue was,movie.gross_revenue
