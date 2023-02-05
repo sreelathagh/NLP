@@ -14,41 +14,31 @@ import data
 from utils import get_device, repackage_hidden, make_reproducible
 from rnnlm import RNNModel
 
-# def load_glove():
-#   print("in load glove")
-#   glove_url = "http://nlp.stanford.edu/data/glove.6B.zip"
-#   glove_dir = os.path.join(os.path.curdir, "glove")
-#   if not os.path.exists(os.path.join(os.path.curdir, "glove", "glove.6B.50d.txt")):
-#       zip_path, _ = urllib.request.urlretrieve(glove_url)
-#       with zipfile.ZipFile(zip_path, "r") as f:
-#           f.extractall(glove_dir)
-#   return
+def init_glove_embeddings(max_features, word_index, glove_path):
+  embeddings_dict = {}
+  with open(glove_path, 'r') as f:
+      for line in f:
+          values = line.split()
+          word = values[0]
+          vector = np.asarray(values[1:], "float32")
+          embeddings_dict[word] = vector 
+          
+          all_embs = np.stack(embeddings_dict.values())
+          emb_mean,emb_std = -0.005838499,0.48782197
+          embed_size = all_embs.shape[1]
 
-# def init_glove_embeddings(model: RNNModel, glove_path):
-#   load_glove() 
-#   embeddings_dict = {}
-#   with open("/content/glove/glove.6B.50d.txt", 'r') as f:
-#       for line in f:
-#           values = line.split()
-#           word = values[0]
-#           vector = np.asarray(values[1:], "float32")
-#           embeddings_dict[word] = vector 
-#           all_embs = np.stack(embeddings_dict.values())
-#           emb_mean,emb_std = -0.005838499,0.48782197
-#           embed_size = all_embs.shape[1]
-
-#           nb_words = min(max_features, len(word_index)+1)
-#           glove_embedding_matrix = np.random.normal(emb_mean, emb_std, (nb_words, embed_size))
-#           for word, i in word_index.items():
-#               if i >= max_features: continue
-#               embedding_vector = embeddings_dict.get(word)
-#               if embedding_vector is not None: 
-#                   glove_embedding_matrix[i] = embedding_vector
-#               else:
-#                   embedding_vector = embeddings_dict.get(word.capitalize())
-#                   if embedding_vector is not None: 
-#                       glove_embedding_matrix[i] = embedding_vector
-#           return glove_embedding_matrix
+          nb_words = min(max_features, len(word_index)+1)
+          glove_embedding_matrix = np.random.normal(emb_mean, emb_std, (nb_words, embed_size))
+          for word, i in word_index.items():
+              if i >= max_features: continue
+              embedding_vector = embeddings_dict.get(word)
+              if embedding_vector is not None: 
+                  glove_embedding_matrix[i] = embedding_vector
+              else:
+                  embedding_vector = embeddings_dict.get(word.capitalize())
+                  if embedding_vector is not None: 
+                      glove_embedding_matrix[i] = embedding_vector
+          return glove_embedding_matrix
 
 
 def compute_perplexity(loss: float):
@@ -76,7 +66,7 @@ def parse_args():
     parser.add_argument("--nlayers", type=int, default=2, help="number of layers")
     parser.add_argument("--lr", type=float, default=20, help="initial learning rate")
     parser.add_argument("--clip", type=float, default=0.25, help="gradient clipping")
-    parser.add_argument("--epochs", type=int, default=3, help="upper epoch limit")
+    parser.add_argument("--epochs", type=int, default=40, help="upper epoch limit")
     parser.add_argument(
         "--batch_size", type=int, default=20, metavar="N", help="batch size"
     )
@@ -171,9 +161,13 @@ def train_model_step(corpus, args, model, criterion, epoch, lr):
         loss.backward()
 
         # `clip_grad_norm` helps prevent the exploding gradient problem in RNNs / LSTMs.
-        torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
-        for p in model.parameters():
+        params_to_update = [p for p in model.parameters() if p.requires_grad == True]
+        torch.nn.utils.clip_grad_norm_(params_to_update, args.clip)
+        for p in params_to_update:
             p.data.add_(p.grad, alpha=-lr)
+        # torch.nn.utils.clip_grad_norm_(model.parameters(), args.clip)
+        # for p in model.parameters():
+        #     p.data.add_(p.grad, alpha=-lr)
 
         total_loss += loss.item()
 
@@ -202,20 +196,25 @@ def train_model(corpus, args, model, criterion):
     eval_batch_size = 10
     val_data = batchify(corpus.valid, eval_batch_size)
     lr = args.lr
+    val_pp = 0.0
     # At any point you can hit Ctrl + C to break out of training early.
     try:
         for epoch in range(1, args.epochs + 1):
             epoch_start_time = time.time()
             train_model_step(corpus, args, model, criterion, epoch=epoch, lr=lr)
             val_loss = evaluate(model, val_data, criterion)
+            val_pp += compute_perplexity(val_loss)
+            avg_val_pp = val_pp/epoch
             print("-" * 89)
             print(
                 "| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | "
-                "valid ppl {:8.2f}".format(
+                "valid ppl {:8.2f}| avg pp at {:3d} epoch is {:8.2f}".format(
                     epoch,
                     (time.time() - epoch_start_time),
                     val_loss,
                     compute_perplexity(val_loss),
+                    epoch,
+                    avg_val_pp,
                 )
             )
             print("-" * 89)
@@ -257,10 +256,9 @@ if __name__ == "__main__":
     test_data = batchify(corpus.test, eval_batch_size)
 
     ntokens = len(corpus.vocab)
-    # print((corpus.vocab.type2index["the"]))
-    model = RNNModel(ntokens, args.emsize, args.nhid, args.nlayers, args.dropout).to(
-        device
-    )
+    glove_path = os.path.join(os.path.curdir, "glove", "glove.6B.50d.txt")
+    emb_matrix = init_glove_embeddings(ntokens, corpus.vocab.type2index, glove_path)
+    model = RNNModel(ntokens, emb_matrix, args.emsize, args.nhid, args.nlayers, args.dropout).to(device)
     criterion = nn.NLLLoss()
     train_model(corpus, args, model, criterion)
     test_model(corpus, args, model, criterion)

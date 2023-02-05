@@ -7,6 +7,7 @@ class RNNModel(nn.Module):
     def __init__(
         self,
         vocab_size,
+        emb_mtrix,
         in_embedding_dim,
         n_hidden,
         n_layers,
@@ -34,7 +35,17 @@ class RNNModel(nn.Module):
                 # nonlinearity="tanh",
                 dropout=dropout,
                 bidirectional=False,
-            )           
+            ) 
+        elif rnn_type == "bilstm":
+            print("\nbilstm model\n")
+            self.rnn = nn.LSTM(
+                in_embedding_dim,
+                n_hidden,
+                n_layers,
+                # nonlinearity="tanh",
+                dropout=dropout,
+                bidirectional=True,
+            )                       
 
         else:
             print("\ngru model\n")
@@ -46,15 +57,20 @@ class RNNModel(nn.Module):
                 dropout=dropout,
                 bidirectional=False,
             )           
-        
+        self.model_type = rnn_type        
         self.in_embedder = nn.Embedding(vocab_size, in_embedding_dim)
+        self.in_embedder.weight = nn.Parameter(torch.tensor(emb_mtrix, dtype=torch.float32))
+        self.in_embedder.weight.requires_grad = False #use True to unfreeze the embedding layer
         self.dropout = nn.Dropout(dropout)
-        self.pooling = nn.Linear(n_hidden, vocab_size)
+        if self.model_type == "bilstm":
+          self.pooling = nn.Linear(n_hidden*2, vocab_size) #BiLSTM
+        else:
+          self.pooling = nn.Linear(n_hidden, vocab_size)
         self.init_weights()
         self.n_hidden = n_hidden
         self.n_layers = n_layers
         self.vocab_size = vocab_size
-        self.model_type = rnn_type
+
 
     def init_weights(self):
         initrange = 0.1
@@ -75,6 +91,10 @@ class RNNModel(nn.Module):
         if (self.model_type == "elman" or self.model_type == "gru"):
           weight = next(self.parameters())
           return weight.new_zeros(self.n_layers, batch_size, self.n_hidden)
+        elif self.model_type == "bilstm":
+          hidden = torch.zeros(self.n_layers*2, batch_size, self.n_hidden) #BiLSTM
+          cell = torch.zeros(self.n_layers*2, batch_size, self.n_hidden) #BiLSTM
+          return hidden, cell          
         else:
           hidden = torch.zeros(self.n_layers, batch_size, self.n_hidden)
           cell = torch.zeros(self.n_layers, batch_size, self.n_hidden)
