@@ -1,4 +1,4 @@
-# The Base code is from "https://github.com/HazyResearch/H3" which has the SSMLMHeadModel class
+
 #!pip install git+https://github.com/huggingface/transformers.git
 #!pip install datasets
 #!pip install transformers torch
@@ -85,23 +85,6 @@ tokenized_datasets
 from transformers import AutoTokenizer, RobertaForCausalLM, AutoConfig
 import torch
 
-'''
-config = AutoConfig.from_pretrained(
-    "roberta-base",
-    vocab_size=len(tokenizer),
-    is_decoder=True,
-    random_init=True,
-    no_deprecation_warning=True,
-)
-print(len(tokenizer))
-# model = RobertaForCausalLM.from_pretrained("roberta-base", is_decoder=True, vocab_size=10_000)
-model = RobertaForCausalLM(config).to(device)
-# model.init_weights()
-model_size = sum(t.numel() for t in model.parameters())
-print(f"RoBERTa size: {model_size/1000**2:.1f}M parameters")
-# print(config)
-'''
-
 #_____________________________________________________________________________________________________________________________
 class MyTrainer(Trainer):  
     def compute_loss(self, model, inputs, return_outputs=False):
@@ -155,35 +138,9 @@ out = data_collator([tokenized_datasets["train"][i] for i in range(5)])
 for key in out:
     print(f"{key} shape: {out[key].shape}")
 
-# !pip install evaluate
-
-# import evaluate
-# from evaluate import TextClassificationEvaluator, Metric, EvaluationModuleInfo
-# class Cal_Perplexity(Metric):
-#     """
-#     You can define custom metrics! In this case I do this to compute Macro-F1, which averages per-class F1 scores
-#     """
-#     pp_metric_info: EvaluationModuleInfo = evaluate.load("perplexity")._info()
-
-#     def _info(self) -> EvaluationModuleInfo:
-#         # we'll just say the info is the same in this case
-#         return MyMacroF1Metric.pp_metric_info
-
-#     def _compute(self, loss) -> Dict[str, Any]:
-#         # we can just call the sklearn implementation! Metrics in huggingface generally correspond with sklearn metrics
-#         # when applicable
-#         pp = torch.exp()
-#         return {"perplexity": float(pp) if pp.size == 1 else pp}
 
 from transformers import Trainer, TrainingArguments
 
-# # PP: Cal_Perplexity = Cal_Perplexity()
-# my_evaluation: Cal_Perplexity = Cal_Perplexity()
-
-# def Cal_Perplexity(eval_pred: EvalPrediction) -> Dict[str, float]:
-#         logits, labels = eval_pred.predictions, eval_pred.label_ids
-#         predictions: Tensor = logits.argmax(axis=-1)
-#         return my_evaluation.compute(predictions=predictions, references=labels)
 
 args = TrainingArguments(
     output_dir="./h3",
@@ -221,10 +178,7 @@ trainer = MyTrainer(
 
 trainer.train()
 
-# trn = trainer.train()
-# model = trainer.model  # make sure to load_best_model_at_end=True!
 
-# run a final evaluation on the test set
 val = trainer.evaluate(metric_key_prefix="test", eval_dataset=tokenized_datasets["valid"])
 valid_loss = val.get("test_loss")
 # print(f"Training Loss: {trn.training_loss}")
@@ -233,10 +187,6 @@ print(f"Validation Perplexity: {torch.exp(torch.tensor(valid_loss))}")
 
 print(f"Best Validation Perplexity: {torch.exp(torch.tensor(5.40))}")
 
-
-
-#if __name__ == "__main__":
-#    device: str=torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 
